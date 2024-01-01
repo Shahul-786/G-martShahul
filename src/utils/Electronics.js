@@ -8,7 +8,7 @@ export const Electronics = {
           "Smartphone APPLE iPhone 14 (Blue, 128 GB)",
         ratings: 4,
         mrp: 69.900,
-        Discount: 8, 
+        Discount: 8,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
           "Upto Rs. 60/- Cashback on your first order",
