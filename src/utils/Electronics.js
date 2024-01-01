@@ -7,8 +7,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone APPLE iPhone 14 (Blue, 128 GB)",
         ratings: 4,
-        price: "₹63,900",
-        MRP: "₹69,900",
+        mrp: 69.900,
         Discount: 8, 
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -55,8 +54,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone APPLE iPhone 12 (Green, 64 GB)",
         ratings: 3,
-        price: "₹42,999",
-        MRP: "₹49,900",
+        mrp: 49.900,
         Discount: 13,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -104,8 +102,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone vivo T2x 5G (Marine Blue, 128 GB)  (4 GB RAM)",
         ratings: 4,
-        price: "₹11,999",
-        MRP: "₹₹17,999",
+        mrp: 17.999,
         Discount: 33,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -147,8 +144,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone APPLE iPhone 14 (Blue, 128 GB)",
         ratings: 3,
-        price: "₹63,900.00",
-        MRP: "₹69,900.00",
+        mrp:69.900,
         Discount: 8,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -196,8 +192,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone vivo V29 Pro 5G (Black, 256 GB)  (8 GB RAM)",
         ratings: 3,
-        price: "₹₹39,999",
-        MRP: "₹39,000",
+        mrp: 39.000,
         Discount: 1,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -238,8 +233,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone vivo Y16 (Steller Black, 64 GB)  (4 GB RAM)",
         ratings: 4,
-        price: "₹9,746",
-        MRP: "₹15,999",
+        mrp: 15.999,
         Discount:39,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -280,8 +274,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone REDMI 12 5G (Jade Black, 128 GB)  (6 GB RAM)",
         ratings: 2,
-        price: "₹12,490",
-        MRP: "₹15,999",
+        mrp: 15.999,
         Discount:21,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -321,8 +314,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone REDMI 13c 5G (Starlight Black, 128 GB) (6 GB RAM)",
         ratings: 5,
-        price: "₹14,980",
-        MRP: "17,999",
+        mrp: 17.999,
         Discount:16,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -362,8 +354,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone OPPO Reno10 5G (Silvery Grey, 256 GB)  (8 GB RAM)",
         ratings: 0,
-        price: "₹32,999",
-        MRP: "₹38,999",
+        mrp: 38.999,
         Discount:16,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -404,8 +395,7 @@ export const Electronics = {
         shortDesc:
           "Smartphone OPPO F23 5G (Cool Black, 256 GB)  (8 GB RAM)",
         ratings: 5,
-        price: "₹22,999",
-        MRP: "₹28,999",
+        mrp: 28.999,
         Discount:20,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -449,8 +439,7 @@ export const Electronics = {
         brand: "Apple",
         shortDesc: "MobileAccessories XOVO Back Cover for Apple iPhone 15 Plus (Black, Dual Protection, Silicon, Pack of 1)",
         ratings: 5,
-        price: "₹249",
-        MRP: "₹999",
+        mrp:999,
         Discount:75,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -488,8 +477,7 @@ export const Electronics = {
       brand: "Apple",
       shortDesc: "MobileAccessories Enflamo Black Silicon Back Cover For Apple Iphone 13",
       ratings: 2,
-      price: "₹259",
-      MRP: "₹799",
+      mrp:799,
       Discount:67,
         additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -527,8 +515,7 @@ export const Electronics = {
       brand: "FastShip",
       shortDesc: "MobileAccessories Fastship Leather Finish Inside TPU Wallet Stand Magnetic Closure Flip Cover for Motorola G84 5G - Navy Blue",
       ratings: 2,
-      price: "₹219",
-      MRP: "₹899",
+      mrp: 899,
       Discount:75,
       additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -563,8 +550,7 @@ export const Electronics = {
         brand: "boAt",
         shortDesc: "MobileAccessories boAt USB Type C Cable 3 A 1.5 m A320  (Compatible with Mobiles, Tablets & any other device with type-c port, Red",
         ratings: 2,
-        price: "₹299",
-        MRP: "₹599",
+        mrp: 599,
         Discount:50,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -602,8 +588,7 @@ export const Electronics = {
       brand: "Tart",
       shortDesc: "MobileAccessories Tart Nothing phone 45W ,USB-C Power Adapter (White) - In Box Packing",
       ratings: 2,
-      price: "₹1,248",
-      MRP: "₹2,999",
+      mrp:2.999,
       Discount:58, 
       additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -640,8 +625,7 @@ export const Electronics = {
           brand: "Saco",
           shortDesc: "MobileAccessories Saco Tablet Flip Cover for 7 inch Size-Clamp Wired USB Tablet Keyboard  (Black)",
           ratings: 2,
-          price: "₹999",
-          MRP: "₹2,99",
+          mrp:2.99,
           Discount:60,
           additionalOffers: [
               "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -673,8 +657,7 @@ export const Electronics = {
           brand: "Quantum",
           shortDesc: "MobileAccessories Quantum QHM7307 Mini Spill-Resistant USB Wired Slim Keyboard for Laptop/Desktop (Black)",
           ratings: 2,
-          price: "₹449",
-          MRP: "₹499",
+          mrp:499,
           Discount:10, 
           additionalOffers: [
               "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -710,8 +693,7 @@ export const Electronics = {
         brand: "JCBL",
         shortDesc: "MobileAccessories JCBL Accessories 4-in-1 15W Fast Wireless Charger Atmosphere Light Lamp with BT Speaker, 15W Charging Pad",
         ratings: 2,
-        price: "₹4,997",
-        MRP: "₹9,998",
+        mrp:9.998,
         Discount:50,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -753,8 +735,7 @@ export const Electronics = {
           brand: "MOBIVIILE",
           shortDesc: "MobileAccessories MOBIVIILE Screen Guard",
           ratings: 2,
-          price: "₹299",
-          MRP: "₹1,299",
+          mrp:1.299,
           Discount:76,
           additionalOffers: [
               "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -793,6 +774,43 @@ export const Electronics = {
             AntiGlare:"No",
             AntiReflection:"No",
            },
+
+           {
+            productId: 599991274,
+            productImage:
+            ["https://www.jiomart.com/images/product/original/rveyv6qvrx/fastship-leather-finish-inside-tpu-wallet-stand-magnetic-closure-flip-cover-for-motorola-g84-5g-navy-blue-product-images-orveyv6qvrx-p606875639-0-202312231656.jpg?im=Resize=(420,420)"],
+          brand: "FastShip",
+          shortDesc: "MobileAccessories Fastship Leather Finish Inside TPU Wallet Stand Magnetic Closure Flip Cover for Motorola G84 5G - Navy Blue",
+          ratings: 2,
+          mrp: 899,
+          Discount:75,
+          additionalOffers: [
+              "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
+              "Upto Rs. 60/- Cashback on your first order",
+            ],
+            bankOffers: [
+              "10% Instant Discount. Min. Trnx 10,000/- Max Discount Up to Rs. 2000/- On Bank Of Baroda Credit Cards & EMI.",
+              "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+            ],
+            coupons: [
+              "Avail additional 3% discount on select Apple Watch",
+              "1000 OFF on TV",
+              "500 OFF on TV",
+            ],
+            status: "In stock",
+            soldBy: "Reliance Retail",
+           
+            KeyFeatures: [
+                "Perfectly Designed For Motorola G84 5G - You have purchased the best phone and now it's the time to purchase the best in class cover",
+            ],
+                    
+            Product:
+              "PRODUCT INFORMATION",          
+            ProductType:"Mobile Case",
+            Color: "Blue",
+            Material: "Artificial Leather",
+        },
+      
     ],
     tablets: [
       {
@@ -803,8 +821,7 @@ export const Electronics = {
         shortDesc:
           "Tablets SAMSUNG Galaxy Tab S9 8 GB RAM 128 GB ROM 11.0 Inch with Wi-Fi Only Tablet (Gray)",
         ratings: 10,
-        price: "₹83,999",
-        MRP: "₹91,299",
+        mrp:91.299,
         Discount:11,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -848,8 +865,7 @@ export const Electronics = {
         shortDesc:
           "Tablet Lenovo 27.94 cm (11 inch) Wi-Fi + 5G Calling Tablet 8 GB RAM, 256 GB, Strom Grey, J607Z",
         ratings: 10,
-        price: "₹39,999",
-        MRP: "₹55,000",
+        mrp: 55.000,
         Discount:27,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -888,8 +904,7 @@ export const Electronics = {
         shortDesc:
           "Tablet Xiaomi Pad 6 27.94 cm (11 inches) 6 GB RAM 256 GB ROM, Graphite Grey, Wi-Fi Tablet, VHU4404IN",
         ratings: 10,
-        price: "₹27,990",
-        MRP: "₹41,999",
+        mrp: 41.999,
         Discount:33,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -936,8 +951,7 @@ export const Electronics = {
         shortDesc:
           "Tablet realme Pad 2 6 GB RAM 128 GB ROM 11.5 inch with Wi-Fi+4G Tablet (Imagination Grey)",
         ratings: 10,
-        price: "₹19999",
-        MRP: "₹28,999",
+        mrp:28.999,
         Discount:31,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -964,8 +978,7 @@ export const Electronics = {
         shortDesc:
           "Tablet MOTOROLA Tab G62 4 GB RAM 128 GB ROM 10.61 inch with Wi-Fi+4G Tablet (Frost Blue)",
         ratings: 10,
-        price: "₹16,999",
-        MRP: "₹31,000",
+        mrp:31.000,
         Discount:45,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -992,8 +1005,7 @@ export const Electronics = {
         shortDesc:
           "Tablet realme Pad 2 6 GB RAM 128 GB ROM 11.5 inch with Wi-Fi+4G Tablet (Imagination Grey)",
         ratings: 10,
-        price: "₹19999",
-        MRP: "₹28,999",
+        mrp:28.999,
         Discount:31,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1020,8 +1032,7 @@ export const Electronics = {
         shortDesc:
           "Tablet APPLE iPad (9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only (Space Grey)",
         ratings: 10,
-        price: "₹30,900",
-        MRP: "₹32,000",
+        mrp:32.000,
         Discount:6,
         additionalOffers: [
             "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1048,8 +1059,7 @@ export const Electronics = {
             shortDesc:
               "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
             ratings: 10,
-            price: "₹16,999",
-            MRP: "₹31,000",
+            mrp: 31.000,
             Discount:45,
             additionalOffers: [
                 "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1075,8 +1085,7 @@ export const Electronics = {
             shortDesc:
               "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
             ratings: 10,
-            price: "₹16,999",
-            MRP: "₹31,000",
+            mrp: 31.000,
             Discount:45,
             additionalOffers: [
                 "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1102,8 +1111,7 @@ export const Electronics = {
           shortDesc:
             "Tablet APPLE iPad (9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only (Space Grey)",
           ratings: 10,
-          price: "₹30,900",
-          MRP: "₹32,000",
+          mrp: 32.000,
           Discount:6,
           additionalOffers: [
               "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1130,8 +1138,7 @@ export const Electronics = {
             shortDesc:
               "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
             ratings: 10,
-            price: "₹16,999",
-            MRP: "₹31,000",
+            mrp: 31.000,
             Discount:45,
             additionalOffers: [
                 "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1157,8 +1164,7 @@ export const Electronics = {
               shortDesc:
                 "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
               ratings: 10,
-              price: "₹16,999",
-              MRP: "₹31,000",
+              mrp: 31.000,
               Discount:45,
               additionalOffers: [
                   "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1184,8 +1190,7 @@ export const Electronics = {
           shortDesc:
             "Tablet APPLE iPad (9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only (Space Grey)",
           ratings: 10,
-          price: "₹30,900",
-          MRP: "₹32,000",
+          mrp: 32.000,
           Discount:6,
           additionalOffers: [
               "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1212,8 +1217,7 @@ export const Electronics = {
             shortDesc:
               "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
             ratings: 10,
-            price: "₹16,999",
-            MRP: "₹31,000",
+            mrp: 31.000,
             Discount:45,
             additionalOffers: [
                 "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1239,8 +1243,7 @@ export const Electronics = {
           shortDesc:
           "Tablet Lenovo Tablet M9 3 GB RAM 32 GB ROM 9 Inch with Wi-Fi+4G Tablet (Frost Blue)",
           ratings: 10,
-          price: "₹10,999",
-          MRP: "₹18,000",
+          mrp: 18.000,
           Discount:38,
           additionalOffers: [
           "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1266,8 +1269,7 @@ export const Electronics = {
             shortDesc:
               "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
             ratings: 10,
-            price: "₹16,999",
-            MRP: "₹31,000",
+            mrp: 31.000,
             Discount:45,
             additionalOffers: [
                 "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1293,8 +1295,7 @@ export const Electronics = {
               shortDesc:
                 "Tablet Lenovo Tablet M9 3 GB RAM 32 GB ROM 9 Inch with Wi-Fi+4G Tablet (Frost Blue)",
               ratings: 10,
-              price: "₹10,999",
-              MRP: "₹18,000",
+              mrp: 18.000,
               Discount:38,
               additionalOffers: [
                   "HDFC Bank Offer: Rs.4000 HDFC Instant Bank Discount and 6 Months No Cost EMI",
@@ -1323,8 +1324,7 @@ export const Electronics = {
         shortDesc:
           "Tv BeethoSOL 80 cm (32 inch) HD Ready LED Smart Android Based TV  (LEDSTVBG3284HD27-DN)",
         ratings: 3,
-        price: "₹8,349",
-        MRP: "₹19,000",
+        mrp: 19.000,
         Discount:56,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1361,8 +1361,7 @@ export const Electronics = {
         shortDesc:
           "Tv iFFALCON by TCL 80 cm (32 inch) HD Ready LED Smart Android TV with Google Assistant  (iFF32S53)",
         ratings: 2,
-        price: "₹8,490",
-        MRP: "₹19,000",
+        mrp: 19.000,
         Discount:56,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1401,8 +1400,7 @@ export const Electronics = {
         shortDesc:
           "Tv SAMSUNG 80 cm (32 Inch) HD Ready LED Smart Tizen TV 2022 Edition with Bezel-free Design  (UA32T4380AKXXL)",
         ratings: 4,
-        price: "₹13,990",
-        MRP: "₹18,900",
+        mrp: 18.900,
         Discount:15,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1440,8 +1438,7 @@ export const Electronics = {
         shortDesc:
           "Tv TCL 108 cm (43 inch) QLED Ultra HD (4K) Smart Google TV With Hands-Free Voice Control  (43T6G)",
         ratings: 2,
-        price: "₹27,990",
-        MRP: "₹61,990",
+        mrp: 61.990,
         Discount:54,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1478,8 +1475,7 @@ export const Electronics = {
         shortDesc:
           "Tv LG 80 cm (32 inch) HD Ready LED Smart WebOS TV  (32LM565BPTA)",
         ratings: 1,
-        price: "₹13,490",
-        MRP: "₹21,990",
+        mrp: 21.990,
         Discount:38,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1516,8 +1512,7 @@ export const Electronics = {
         shortDesc:
           "Tv Dyanora 109 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV  (DY-LD43U0S)",
         ratings: 4,
-        price: "19,499",
-        MRP: "₹21,990",
+        mrp: 21.990,
         Discount:48,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1548,8 +1543,7 @@ export const Electronics = {
           shortDesc:
             "Tv Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X75L, Black",
           ratings: 4,
-          price: "₹62,890",
-          MRP: "₹99,990",
+          mrp: 99.990,
           Discount:38,
           additionalOffers: [
             "Upto Rs. 60/- Cashback on your first order",
@@ -1587,8 +1581,7 @@ export const Electronics = {
           shortDesc:
             "Tv Sansui Neo 80 cm (32 inch) HD Ready LED Smart Linux TV 2022 Edition  (JSWY32CSHD)",
           ratings: 4,
-          price: "₹10,181",
-          MRP: "₹19,990",
+          mrp: 19.990,
           Discount:49,
           additionalOffers: [
             "Upto Rs. 60/- Cashback on your first order",
@@ -1627,8 +1620,7 @@ export const Electronics = {
           shortDesc:
             "Tv LG 108 cm (43 inch) Ultra HD (4K) Smart LED TV, UQ80 Series 43UQ8020PSB",
           ratings: 5,
-          price: "₹34,190",
-          MRP: "₹59,990",
+          mrp: 59.990,
           Discount:43,
           additionalOffers: [
             "Upto Rs. 60/- Cashback on your first order",
@@ -1667,8 +1659,7 @@ export const Electronics = {
           shortDesc:
             "Tv TCL P635 Pro 126 cm (50 inch) Ultra HD (4K) LED Smart Google TV 2023 Edition with Google Assistant |  (50P635 Pro)",
           ratings: 3,
-          price: "₹32,990",
-          MRP: "₹66,990",
+          mrp: 66.990,
           Discount:50,
           additionalOffers: [
             "Upto Rs. 60/- Cashback on your first order",
@@ -1705,8 +1696,7 @@ export const Electronics = {
         shortDesc:
           "HomeTheatre Dotsun My Dj 3400 W Bluetooth Home Theatre (Black, Stereo Channel)",
         ratings: 3,
-        price: "₹3,631",
-        MRP: "₹6,499",
+        mrp: 6.499,
         Discount:44,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1733,8 +1723,7 @@ export const Electronics = {
         shortDesc:
           "HomeTheatre Zebronics Zeb-Impact Component Home Theatre System(BLACK)",
         ratings: 2,
-        price: "₹3,399",
-        MRP: "₹4,999",
+        mrp: 4.999,
         Discount:52,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1765,8 +1754,7 @@ export const Electronics = {
         shortDesc:
           "HomeTheatre I Kall 7.1 Channel IK-2222 Home Theater System (Black)",
         ratings: 1,
-        price: "₹2,399",
-        MRP: "₹4,999",
+        mrp:4.999,
         Discount:52,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1798,8 +1786,7 @@ export const Electronics = {
         shortDesc:
           "HomeTheatre I KALL IK-401 4.1 Channel 80W BT Home Theatre",
         ratings: 2,
-        price: "₹1,799",
-        MRP: "₹2,999",
+        mrp: 2.999,
         Discount:40,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1834,8 +1821,7 @@ export const Electronics = {
         shortDesc:
           "HomeTheatre IKALL IK-411 80W Bluetooth Home Theatre System with FM(1)AUX(1)USB Support and Remote Control (4.1 Channel)",
         ratings: 2,
-        price: "₹1,899",
-        MRP: "₹2,999",
+        mrp: 2.999,
         Discount:40,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -1867,8 +1853,7 @@ export const Electronics = {
       shortDesc:
         "HomeTheatre F&D A110 70 W 2.1 Channel Wired Multimedia Speakers with Subwoofer Satellite Speaker (Black))",
       ratings: 0,
-      price: "₹2,490",
-      MRP: "₹3,490",
+      mrp: 3.490,
       Discount:28, 
       additionalOffers: [
         "Upto Rs. 60/- Cashback on your first order",
@@ -1900,8 +1885,7 @@ export const Electronics = {
       shortDesc:
         "HomeTheatre Tronica TR-1501 Deep Bass Home Theater with Subwoofer 2.1 Channel with 55W Premium Signature Sound, Multiple Connectivity Modes, Master Remote and Sleek Finish (Black)",
       ratings: 0,
-      price: "₹3,001",
-      MRP: " ₹6,000",
+      mrp: 6.000,
       Discount:49,
       additionalOffers: [
         "Upto Rs. 60/- Cashback on your first order",
@@ -1934,8 +1918,7 @@ export const Electronics = {
       shortDesc:
         "HomeTheatre Zebronics BT460RUF Component Home Theatre System(BLACK)",
       ratings: 3,
-      price: "₹2,999",
-      MRP: " ₹4,999",
+      mrp: 4.999,
       Discount:38,
       additionalOffers: [
         "Upto Rs. 60/- Cashback on your first order",
@@ -1969,8 +1952,7 @@ export const Electronics = {
       shortDesc:
         "HomeTheatre Zebronics BT2750RUF 4.1 Component Home Theatre System(BLACK)",
       ratings: 4,
-      price: "₹2,999",
-      MRP: " ₹4,199",
+      mrp: 4.99,
       Discount:45,
       additionalOffers: [
         "Upto Rs. 60/- Cashback on your first order",
@@ -2004,8 +1986,7 @@ export const Electronics = {
       shortDesc:
         "HomeTheatre I Kall IK-4444 7.1 Bluetooth Multimedia Home Theater with FM(1)Pen Drive(1)Aux Support",
       ratings: 3,
-      price: "₹2,999",
-      MRP: " ₹4,199",
+      mrp: 4.199,
       Discount:45,
       additionalOffers: [
         "Upto Rs. 60/- Cashback on your first order",
@@ -2037,8 +2018,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote Crystonics Jio Voice Function Remote Compatible for Set Top Box and Jio Fiber Box Jio Set Top Box Remote Controller (Black)",
         ratings: 1,
-        price: "₹899",
-        MRP: " ₹1,999",
+        mrp: 1.999,
         Discount:55,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2072,8 +2052,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote Electvision Remote Control for Lg Magic Led",
         ratings: 2,
-        price: "₹920",
-        MRP: "₹999",
+        mrp: 999,
         Discount:7,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2105,8 +2084,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote AKSHITA TRADING Remote Control for Takai LED, LCD TV (Black)",
         ratings: 3,
-        price: "₹501",
-        MRP: "₹999",
+        mrp: 999,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2141,8 +2119,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote EARTHMA Remote Control for Fan and Light (Black)",
         ratings: 3,
-        price: "₹399",
-        MRP: "₹500",
+        mrp: 500,
         Discount:10,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2177,8 +2154,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote Xpecial Mi-4A With Voice Control Function Remote Compatible With Mi 4K Smart Led Lcd Tv",
         ratings: 3,
-        price: "₹549",
-        MRP: "₹1,499",
+        mrp: 1.499,
         Discount:59,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2213,8 +2189,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote AKSHITA TRADING Remote Control for Cemex LED, LCD Smart TV (Black)",
         ratings: 3,
-        price: "₹399",
-        MRP: "₹1,000",
+        mrp: 1.000,
         Discount:60,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2250,8 +2225,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote Xpecial Remote Controller for Jio Fibre Set Top Box (Black)",
         ratings: 3,
-        price: "₹899",
-        MRP: "₹₹1,999",
+        mrp: 1.999,
         Discount:55,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2287,8 +2261,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote royalcool Plastic Remote Control For Lg Magic Led With Mouse And Curso",
         ratings: 3,
-        price: "₹460",
-        MRP: "₹899",
+        mrp: 899,
         Discount:48,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2324,8 +2297,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote EARTHMA Remote Controls for Samsung 3D Smart LCD LED TV (Black)",
         ratings: 3,
-        price: "₹349.",
-        MRP: "₹400",
+        mrp: 400,
         Discount:12,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2362,8 +2334,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote HDF Plastic Remote Control For Samsung Smart Tv Smart Hub Touch With Usb Function Rmctph1Ap1 Bn59-01185D Bn59-01184D Bn59-01182D(257)",
         ratings: 2,
-        price: "₹1,519",
-        MRP: "₹400",
+        mrp: 400,
         Discount:24,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2400,8 +2371,7 @@ export const Electronics = {
         shortDesc:
           "TvRemote royalcool Eremote E-Remote Remote For Mi Led Smart Tv 4A",
         ratings: 2,
-        price: "₹1,519",
-        MRP: "₹400",
+        mrp: 400,
         Discount:24,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2439,8 +2409,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine LG 7 Kg 5 Star Semi-Automatic Top Loading Washing Machine (P7020NGAZ, Dark Gray, Wind Jet Dry)",
         ratings: 3,
-        price: "₹11,490",
-        MRP: "₹16,390",
+        mrp: 16.390,
         Discount:29,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2476,8 +2445,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine LG 8 Kg Top Semi-Automatic Washing Machine with Roller Jet Pulsator, P8030SRAZ Burgundy",
         ratings: 3,
-        price: "₹11,490",
-        MRP: "₹16,390",
+        mrp: 16.390,
         Discount:29,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2517,8 +2485,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Whirlpool 7.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ELITE 7.5, Grey, Hard Water Wash)",
         ratings: 4,
-        price: "₹16,440",
-        MRP: "₹21,200",
+        mrp: 21.200,
         Discount:22,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2554,8 +2521,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine IFB 8 Kg 5 Star Front Load Washing Machine 2X Power Steam (SENATOR WSS 8014, Silver, In-built Heater, 4 years Comprehensive Warranty)",
         ratings: 3,
-        price: "₹37,500",
-        MRP: "₹45,690",
+        mrp: 45.690,
         Discount:17,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2591,8 +2557,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Bosch 8 Kg Front Loading Fully Automatic with Washing Machine with EcoSilence Drive, Series 6 WAJ2846SIN, Silver",
         ratings: 5,
-        price: "₹33,199",
-        MRP: "₹58,399",
+        mrp: 58.399,
         Discount:43,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2628,8 +2593,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Samsung 7.0 Kg Inverter 5 star Semi-Automatic Washing Machine, Top Load (WT70M3200HL/TL, Light Grey, Air Turbo Drying)",
         ratings: 4,
-        price: "₹11,100",
-        MRP: "₹14,500",
+        mrp: 14.500,
         Discount:23,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2665,8 +2629,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine DMR Model No DMR 46-1218 Single Tub Top Load Portable Mini 4.6 Kgs Washing Machine with 2 kg Steel Dryer Basket (Blue)",
         ratings: 3,
-        price: "₹5,899",
-        MRP: "₹7,999",
+        mrp: 7.999,
         Discount:26,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2702,8 +2665,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Foxsky 7.5 Kg Top Loading Semi-Automatic Washing Machine with 3D Scrub Technology, Aqua Wash, Maroon",
         ratings: 3,
-        price: "₹8,490",
-        MRP: "₹16,900",
+        mrp: 16.900,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2743,8 +2705,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Panasonic 7.5 kg Top Load Fully Automatic Washing Machine, NA-F75C1LRB",
         ratings: 4,
-        price: "₹19,490",
-        MRP: "23,600",
+        mrp: 23.600,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2783,8 +2744,7 @@ export const Electronics = {
         shortDesc:
           "WashingMachine Onida 7 Kg Top Load Fully Automatic Washing machine, T70FGD",
         ratings: 3,
-        price: "₹12,349",
-        MRP: "₹21,990",
+        mrp: 21.990,
         Discount:43,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2823,8 +2783,7 @@ export const Electronics = {
         shortDesc:
           "Irons Maharaja Whiteline DI-109 1000 W Dry Iron, Blue",
         ratings: 2,
-        price: "₹565",
-        MRP: "₹790",
+        mrp: 790,
         Discount:28,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2862,8 +2821,7 @@ export const Electronics = {
         shortDesc:
           "Irons Bajaj Majesty DX 4, 1000 Watts, Dry Iron, White",
         ratings: 3,
-        price: "₹599",
-        MRP: "₹1,400",
+        mrp: 1.400,
         Discount:57,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2902,8 +2860,7 @@ export const Electronics = {
         shortDesc:
           "Irons Bajaj Majesty DX 11, 1000 Watts, Dry Iron, Multiple Temperature Levels, White and Blue",
         ratings: 4,
-        price: "₹549",
-        MRP: "₹1,030",
+        mrp: 1.030,
         Discount:47,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2939,8 +2896,7 @@ export const Electronics = {
         shortDesc:
           "Irons Lifelong LLDI09, 1100 Watts, Dry Iron, Temperature Control, Blue and White",
         ratings: 4,
-        price: "₹379",
-        MRP: "₹899",
+        mrp: 899,
         Discount:57,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -2980,8 +2936,7 @@ export const Electronics = {
         shortDesc:
           "Irons Lifelong LLDI09, 1100 Watts, Dry Iron, Temperature Control, Blue and White",
         ratings: 3,
-        price: "1,399",
-        MRP: "₹1,795",
+        mrp: 1.795,
         Discount:22,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3021,8 +2976,7 @@ export const Electronics = {
         shortDesc:
           "Irons Morphy Richards Daisy 1000 Watts Non-Stick Coated Soleplate Dry Iron, White and Maroon",
         ratings: 2,
-        price: "1,399",
-        MRP: "₹1,795",
+        mrp: 1.795,
         Discount:22,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3062,8 +3016,7 @@ export const Electronics = {
         shortDesc:
           "Irons Usha Aurora, 1000 Watts, Dry Iron, Five Frabic Settings, Multi Colored LED Tail Light, Weilburger Non-Stick Soleplate, Shockproof Body, Black",
         ratings: 3,
-        price: "₹715",
-        MRP: "₹1,390",
+        mrp: 1.390,
         Discount:48,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3103,8 +3056,7 @@ export const Electronics = {
         shortDesc:
           "Irons Bajaj Majesty DX-6 Dry Iron 1000w Anti-bacterial Soleplate Coating (WHITE)",
         ratings: 4,
-        price: "₹649",
-        MRP: "₹1,390",
+        mrp: 1.390,
         Discount:53,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3144,8 +3096,7 @@ export const Electronics = {
         shortDesc:
           "Irons Havells Travel Buddy Iron 800W White Blue",
         ratings: 3,
-        price: "₹1,539",
-        MRP: "₹1,995",
+        mrp: 1.995,
         Discount:22,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3182,8 +3133,7 @@ export const Electronics = {
         shortDesc:
           "Irons Havells Travel Buddy Iron 800W White Blue",
         ratings: 3,
-        price: "₹1,099",
-        MRP: "₹1,499",
+        mrp: 1.499,
         Discount:26,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3221,8 +3171,7 @@ export const Electronics = {
         shortDesc:
           "Fans Maxotech Polo Ultra High Speed 100% Copper Winding 1200 mm Anti Dust 3 Blade Ceiling Fan (Ivory, Pack of 1)",
         ratings: 4,
-        price: "₹1,199",
-        MRP: "₹2,890",
+        mrp: 2.890,
         Discount:58,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3255,8 +3204,7 @@ export const Electronics = {
         shortDesc:
           "Fans Zigma Bullet 400 Mm 3 Blade Pedestal Fan, Black",
         ratings: 3,
-        price: "₹1,499",
-        MRP: "₹3,890",
+        mrp: 3.890,
         Discount:61,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3292,8 +3240,7 @@ export const Electronics = {
         shortDesc:
           "Fans PROLIFE Optima 600 mm Ultra High Speed 4 Blade Ceiling Fan (Silver Blue, Pack of 1)",
         ratings: 2,
-        price: "₹949",
-        MRP: "₹2,550",
+        mrp: 2.550,
         Discount:61,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3326,8 +3273,7 @@ export const Electronics = {
         shortDesc:
           "Fans ACTIVA Gracia 1200 MM (28 Watts) BLDC Motor Fan With LED Light |Remote| 3 Blade Energy Saving Ceiling Fan With 4 Year Warranty (Silver Blue)",
         ratings: 3,
-        price: "₹2,469",
-        MRP: "₹4,990",
+        mrp: 4.990,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3361,8 +3307,7 @@ export const Electronics = {
         shortDesc:
           "Fans PROLIFE Jewel star 600 mm Ultra High Speed 4 Blade Ceiling Fan (Ivory, Pack of 1)",
         ratings: 4,
-        price: "₹949",
-        MRP: "₹10,000",
+        mrp: 10.000,
         Discount:90,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3398,8 +3343,7 @@ export const Electronics = {
         shortDesc:
           "Fans Candes Nexo 600 mm Ultra High Speed 4 Blade Ceiling Fan (Coffee Brown, Pack of 1)",
         ratings: 3,
-        price: "₹1,049",
-        MRP: "₹2,199",
+        mrp: 2.199,
         Discount:52,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3437,8 +3381,7 @@ export const Electronics = {
         shortDesc:
           "Fans HM Axial 150 MM 3 Blade Exhaust & Ventilation Fan Black)",
         ratings: 3,
-        price: "₹598",
-        MRP: "₹1,199",
+        mrp: 1.199,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3477,8 +3420,7 @@ export const Electronics = {
         shortDesc:
           "Fans Longway Speedy P1 400 mm/16 inch Ultra High Speed 3 Blade Anti-Dust Decorative Star Rated Pedestal Fan (Black, Pack of 1)",
         ratings: 2,
-        price: "₹1,699",
-        MRP: "₹3,200",
+        mrp: 3.200,
         Discount:48,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3515,8 +3457,7 @@ export const Electronics = {
         shortDesc:
           "Fans KEEKOS White Plastic Powerful Rechargeable Table Fan With 21 SMD LED Light mini fan|table fan|rechargeable fan",
         ratings: 4,
-        price: "₹899",
-        MRP: "₹2,599",
+        mrp: 2.599,
         Discount:65,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3550,8 +3491,7 @@ export const Electronics = {
         shortDesc:
           "Fans Zigma 300 Mm 4 Blade Ultra High Speed With Anti Dust Wall Fan, Black, Orange",
         ratings: 3,
-        price: "₹2,298",
-        MRP: "₹3,590",
+        mrp: 3.590,
         Discount:55,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3591,8 +3531,7 @@ export const Electronics = {
         shortDesc:
           "Laptop Acer Aspire 3 12th Gen Intel Core i3 Laptop (Windows 11 Home/ 8 GB/ 256 GB SSD/ Intel UHD Graphics/ Microsoft Office) AL15-51, 39.6 cm (15.6 Inch) Full HD TFT LCD Display, Pure Silver",
         ratings: 4,
-        price: "₹29,990",
-        MRP: "₹49,990",
+        mrp: 49.990,
         Discount:40,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -3630,8 +3569,7 @@ export const Electronics = {
     shortDesc:
       "Laptop Apple MQKP3HN/A Macbook Air (Apple M2 chip/8 GB/256 GB SSD/mac OS/Retina), 38.91cm (15.3 inch) Space Grey",
     ratings: 5,
-    price: "₹126,990",
-    MRP: "₹134,990",
+    mrp: 134.990,
     Discount:5,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3670,8 +3608,7 @@ export const Electronics = {
     shortDesc:
       "Laptop Dell Inspiron 3511 Laptop (11th Gen Intel Core i5-1135G7/8 GB/512 GB SSD/Intel UMA Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
     ratings: 4,
-    price: "₹45,990",
-    MRP: "₹61,999",
+    mrp: 61.999,
     Discount:25,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3710,8 +3647,7 @@ export const Electronics = {
     shortDesc:
       "Laptop HP 15s-fq2674TU Laptop (11th Gen Intel Core i3-1115G4/8GB/512GB SSD/UHD Graphics/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 inch), Natural silver",
     ratings: 3,
-    price: "₹32,990",
-    MRP: "₹51,14",
+    mrp: 5.114,
     Discount:35,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3748,8 +3684,7 @@ export const Electronics = {
     shortDesc:
       "Laptop (Refurbished) HP Elitebook 820 G4 Laptop (7th Gen Intel Core i5-7300U/8GB/512 GB SSD/?Integrated Intel HD Graphics/Windows 10 Pro/HD), 31.75 cm (12.5 inch)",
     ratings: 4,
-    price: "₹21,999",
-    MRP: "₹28,480",
+    mrp: 28.480,
     Discount:22,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3787,8 +3722,7 @@ export const Electronics = {
     shortDesc:
       "Laptop HP 15s-fq2672TU Laptop (11th Gen Intel Core i3-1115G4/8GB RAM/512GB SSD/UHD Graphics/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 Inch), Natural Silver",
     ratings: 3,
-    price: "₹34,990",
-    MRP: " ₹49,977",
+    mrp: 49.977,
     Discount:29,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3827,8 +3761,7 @@ export const Electronics = {
     shortDesc:
       "Laptop Dell Inspiron 3520, 12th Gen Intel Core i3 Processor, 8 GB RAM, 512 GB SSD, Integrated Graphics, 39.62 cm (15.6 inch) Display, Windows 11, Laptop, Black",
     ratings: 3,
-    price: "₹38,490",
-    MRP: "₹44,999",
+    mrp: 44.999,
     Discount:14,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3865,8 +3798,7 @@ export const Electronics = {
     shortDesc:
       "Laptop Asus EK410KA E-Book Laptop (Intel Celeron N4500/8GB/256 GB SSD/Windows 11 Home/FHD), 35.56 cm (14.0 inch)",
     ratings: 3,
-    price: "₹23,999",
-    MRP: "₹36,999",
+    mrp: 36.999,
     Discount:35,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3905,8 +3837,7 @@ export const Electronics = {
     shortDesc:
       "Laptop Asus LP082W TUF A15 Gaming Laptop (AMD Ryzen 7 7735HS/16GB/512GB SSD/NVIDIA GeForce RTX 4050 Graphics/Windows 11/FHD ), 39.62 cm (15.6 inch)",
     ratings: 3,
-    price: "₹23,999",
-    MRP: "₹36,999",
+    mrp: 36.999,
     Discount:35,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3946,8 +3877,7 @@ export const Electronics = {
     shortDesc:
       "Laptop HP Envy 16-h0028TX Standard Laptop (12th Gen Intel Core i7-12700H/16 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Home/MSO/Ultra HD+), 40.6 cm (16 inch)",
     ratings: 3,
-    price: "₹146,499",
-    MRP: "₹163,617",
+    mrp: 163.617,
     Discount:10,
     additionalOffers: [
       "Upto Rs. 60/- Cashback on your first order",
@@ -3986,8 +3916,7 @@ export const Electronics = {
         shortDesc:
           "Desktop ZOONIS Intel Core i5-650 (8 GB RAM/2 GB Integrated Graphics Graphics/500 GB Hard Disk/120 GB SSD Capacity/Windows 10 (64-bit)/2 GB Integrated Graphics GB Graphics Memory) Mid Tower with MS Office (ZOO/H55-I5 650-8GB-1TB-120GB TWR))",
         ratings: 3,
-        price: "₹7,694",
-        MRP: " ₹24,999",
+        mrp: 24.999,
         Discount:69,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4021,8 +3950,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Tech- Assemblers Dual Core, 4 Gb , 500 Gb , Windows 10 Assembled Desktop Computer, Black",
         ratings: 3,
-        price: "₹9,845",
-        MRP: "₹29,990",
+        mrp: 29.990,
         Discount:69,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4056,8 +3984,7 @@ export const Electronics = {
         shortDesc:
           "Desktop CHIST DESKTOP PC ( Core i7 Processor/8GB Ram /256GB SSD storage/ Wi-Fi / Windows 10 Ready to Use)",
         ratings: 3,
-        price: "₹9,845",
-        MRP: "₹29,990",
+        mrp: 29.990,
         Discount:69,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4094,8 +4021,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Hasons Processor Intel Core i5 Gen 4th/Chipset Series H81 (windows 10/1TB HDD/4 GB",
         ratings: 3,
-        price: "₹16,444",
-        MRP: "₹24,000",
+        mrp: 24.000,
         Discount:69,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4132,8 +4058,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Electrobot Intel i5-650 (4 GB RAM/On Board Graphics/500 GB Hard Disk/Free DOS) Full Tower (Tower PC Assembled Computer With Wifi)",
         ratings: 3,
-        price: "₹6,554",
-        MRP: "₹12,999",
+        mrp: 12.999,
         Discount:49,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4170,8 +4095,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Electrobot Intel i5-650 (4 GB RAM/On Board Graphics/500 GB Hard Disk/Free DOS) Full Tower (Tower PC Assembled Computer With Wifi)",
         ratings: 3,
-        price: "₹6,554",
-        MRP: "₹12,999",
+        mrp: 12.999,
         Discount:49,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4208,8 +4132,7 @@ export const Electronics = {
         shortDesc:
           "Desktop ZOONIS Intel Core i5-650 (8 GB RAM/2 GB Integrated Graphics Graphics/500 GB Hard Disk/120 GB SSD Capacity/Windows 10 (64-bit)/2 GB Integrated Graphics GB Graphics Memory) Mid Tower with MS Office (ZOO/H55-I5 650-8GB-1TB-120GB TWR))",
         ratings: 3,
-        price: "₹7,694",
-        MRP: "₹24,999",
+        mrp: 24.999,
         Discount:69,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4244,8 +4167,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Tech- Assemblers Dual Core, 4 Gb , 500 Gb , Windows 10 Assembled Desktop Computer, Black",
         ratings: 3,
-        price: "₹9,845",
-        MRP: "₹29,990",
+        mrp: 29.990,
         Discount:67,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4279,8 +4201,7 @@ export const Electronics = {
         shortDesc:
           "Desktop FINGERS RGB-WildBox Fashion PC Case Full ATX with ARGB LEDs- Matte Black",
         ratings: 3,
-        price: "₹2,160",
-        MRP: "₹4,499",
+        mrp: 4.499,
         Discount:51,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4319,8 +4240,7 @@ export const Electronics = {
         shortDesc:
           "Desktop Zoonis Intel i5-650 (4 GB RAM/500 GB Hard Disk/Free DOS) Full Tower",
         ratings: 3,
-        price: "₹7,456",
-        MRP: "₹14,999",
+        mrp: 14.999,
         Discount:50,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4353,8 +4273,7 @@ export const Electronics = {
         shortDesc:
           "Desktop CHIST Desktop Computer (Core i5 650, 8 GB RAM, 500 GB HDD, 120 GB SSD, WiFi) ready to use....",
         ratings: 3,
-        price: "₹14,185",
-        MRP: "₹₹31,000",
+        mrp: 31.000,
         Discount:54,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4389,8 +4308,7 @@ export const Electronics = {
         shortDesc:
           "Monitors Zebion 24-HD 60.96 cm (23.8inch) | FULL HD | Backlit LED| 250 Nits| 5 MS Response Time| 1 VGA| 1 HDMI| Black Monitor",
         ratings: 3,
-        price: "₹4,299",
-        MRP: "₹14,999",
+        mrp: 14.999,
         Discount:71,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4425,8 +4343,7 @@ export const Electronics = {
         shortDesc:
           "Monitor ZEBRONICS MT61-ZEB A22FHD 54.6 cm (21.5 inch), 1920 x 1080 Resolution, Black Monitor",
         ratings: 3,
-        price: "₹4,899",
-        MRP: "₹21,999",
+        mrp: 21.999,
         Discount:77,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4465,8 +4382,7 @@ export const Electronics = {
         shortDesc:
           "Monitor LG 20M39A 49.53 cm (19.5 Inch) HD Resolution TN Panel Vga Port Wall Mount 3 Year Warranty Black Monitor",
         ratings: 3,
-        price: "₹5,299",
-        MRP: "₹11,000",
+        mrp: 11.000,
         Discount:51,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4506,8 +4422,7 @@ export const Electronics = {
         shortDesc:
           "Monitor LG 27ML600 Full Hd 27 Inch (69 cm) LCD IPS Panel | Borderless Design | Dual Hdmi & Vga Port |Flicker Free Screen |White| 3 Year Warranty| Computer Monitor",
         ratings: 4,
-        price: "₹12,599",
-        MRP: "₹22,200",
+        mrp: 22.200,
         Discount:43,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4541,8 +4456,7 @@ export const Electronics = {
         shortDesc:
           "Monitor Acer EK220Q 54.6 cm (21.5 inch) with VA Panel Technology 1920 X 1080 Resolution Refresh Rate 75Hz Black Monitor",
         ratings: 4,
-        price: "₹7,729",
-        MRP: "₹13,750",
+        mrp: 13.750,
         Discount:40,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4580,8 +4494,7 @@ export const Electronics = {
         shortDesc:
           "Monitor BenQ GW2780 27 inch (68 cm) 1920 x 1080 Pixels IPS Full HD Ultra-Slim Bezel Monitor- Eye Care",
         ratings: 3,
-        price: "₹15,000",
-        MRP: " ₹16,990",
+        mrp: 16.990,
         Discount:11,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4620,8 +4533,7 @@ export const Electronics = {
         shortDesc:
           "Monitor BenQ GW2280 54.61 cm (21.5 inch) VA, Full HD, Built-in Speakers, HDMI, Flicker-free Technology (Black), Monitor",
         ratings: 3,
-        price: "₹8,788",
-        MRP: " ₹16,990",
+        mrp: 16.990,
         Discount:32,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4660,8 +4572,7 @@ export const Electronics = {
         shortDesc:
           "Monitor DAITORA 109 Cm (43 Inches) Advanced I Series Full HD Smart LED Google TV A43 G (Black)",
         ratings: 3,
-        price: "₹8,788",
-        MRP: " ₹16,990",
+        mrp: 16.990,
         Discount:32,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
@@ -4698,7 +4609,8 @@ export const Electronics = {
         shortDesc:
           "Monitor DAITORA 140 Cm (55 Inches) Advanced I Series Ultra HD Smart LED Google TV A55 GK (Black)",
         ratings: 2,
-        price: "₹44,990",
+        mrp: 44.990,
+        Discount:32,
         additionalOffers: [
           "Upto Rs. 60/- Cashback on your first order",
           "Flat Rs. 100 cashback on first grocery purchase",
