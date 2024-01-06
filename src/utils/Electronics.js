@@ -1870,6 +1870,14 @@ MobileAccessories: [
       ],
       status: true,
       soldBy: "Reliance Retail",
+
+      KeyFeatures:[
+        "Apps Supported : Netflix, Amazon Prime Video, Disney+ Hotstar, Sony Liv, Zee5, Voot, Jio Cinema",
+        "Resolution: Ultra HD (4K) Display (3840 x 2160)",
+        "Connectivity: 3 HDMI and 2 USB ports",
+        "Sound Output: 20 Watt",
+        "Refresh Rate: 60 Hz"
+      ],
       
       Description:[
           "The Dyanora 109 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV (DY-LD43U0S) is designed to provide a high-quality and feature-rich viewing experience.",
@@ -2076,6 +2084,10 @@ MobileAccessories: [
       status: true,
       soldBy: "Reliance Retail",
 
+      KeyFeatures:[
+        "Enjoy have Pure Bass Sound with all new tracks that pump booming Bass in a compact package."
+      ],
+
       Description:[
           "The Dotsun My Dj 3400W Bluetooth Home Theatre is designed to deliver a powerful audio experience in a stylish black finish.",
           "With a total power output of 3400W, this home theater system aims to provide immersive sound for your entertainment setup."
@@ -2110,6 +2122,10 @@ MobileAccessories: [
       status: true,
       soldBy: "Reliance Retail",
 
+      KeyFeatures:[
+        "Enjoy have Pure Bass Sound with all new tracks that pump booming Bass in a compact package."
+      ],
+
       Description:[
       "Sit back, relax and enjoy the powerful audio on the ZEB-Impact tower speaker that features an elegant design which blends well in any decor."
       ],
@@ -2140,6 +2156,10 @@ MobileAccessories: [
       ],
       status: true,
       soldBy: "Reliance Retail",
+
+      KeyFeatures:[
+        "7.1 Speaker | Made In India, Wireless music streaming via Bluetooth, Stunning and stylish design | Enjoy music from multiple sources, Multiple playback options - Bluetooth | USB | SD | AUX | FM â€“ Play it any way you want"       
+      ],
 
       Description:[
       "I Kall 7.1 Channel IK-2222 Home Theater System (Black)",
@@ -2172,6 +2192,10 @@ MobileAccessories: [
       ],
       status: true,
       soldBy: "Reliance Retail",
+
+      KeyFeatures:[
+        "4.1 Speaker | Made In India, Wireless music streaming via Bluetooth, Stunning and stylish design | Enjoy music from multiple sources, Multiple playback options - Bluetooth | USB | SD | AUX | FM – Play it any way you want"
+      ],
 
       Description:[
       "SALES PACKAGE: 1 Woofer, 4 Speakers, 1 Aux, 1 Remote and User Manual",
@@ -2208,6 +2232,10 @@ MobileAccessories: [
       status: true,
       soldBy: "Reliance Retail",
 
+      KeyFeatures:[
+        "4.1 Speaker | Made In India, Wireless music streaming via Bluetooth, Stunning and stylish design | Enjoy music from multiple sources, Multiple playback options - Bluetooth | USB | SD | AUX | FM â€“ Play it any way you want"
+      ],
+
       Description:[
       "IKALL IK-411 80W Bluetooth Home Theatre System with FM(1) AUX(1) USB Support and Remote Control (4.1 Channel)"
       ],
@@ -2216,8 +2244,8 @@ MobileAccessories: [
 
     { 
     productImage:[
-      "https://www.jiomart.com/images/product/original/rvqdf9yysv/f-d-a110-35-w-2-1-channel-wired-multimedia-speaker-black-product-images-orvqdf9yysv-p597702625-0-202301191331.jpg?im=Resize=(420,420)",
-      "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
+      "https://www.jiomart.com/images/product/original/rvqdf9yysv/f-d-a110-35-w-2-1-channel-wired-multimedia-speaker-black-product-images-orvqdf9yysv-p597702625-0-202301191331.jpg?im=Resize=(420,420)"
+    ],
     brand: "F&D",
     shortDesc:
       "HomeTheatre F&D A110 70 W 2.1 Channel Wired Multimedia Speakers with Subwoofer Satellite Speaker (Black))",
@@ -2239,6 +2267,13 @@ MobileAccessories: [
     ],
     status: true,
     soldBy: "Reliance Retail",
+
+    KeyFeatures:[
+      "Efficient design that saves energy by consuming less power, built in avr(automatic voltage regulator) for wide main operating voltage range, Portable- Yes",
+      "Product dimension is- subwoofer (wxhxd) 198 x 210 x 227mm, satellite (wxhxd) 128 x 116 x 110mm",
+      "Preferred room size- Suitable for 10x10 feet room.The volume and bass controls are placed on a side panel, it also comes with a green led power on indicator",
+      "Delivers 3000w pmpo, its wooden cabinet reduces sound distortion and delivers thumping bass"
+    ],
 
     Description:[
     "Efficient design that saves energy by consuming less power, built in avr(automatic voltage regulator) for wide main operating voltage range, Portable: YesProduct dimension is: subwoofer (wxhxd) 198 x 210 x 227mm, satellite (wxhxd) 128 x 116 x 110mmPreferred room size: Suitable for 10x10 feet room."
@@ -2272,6 +2307,11 @@ MobileAccessories: [
     status: true,
     soldBy: "Reliance Retail",
 
+    KeyFeatures:[
+      "A Premium Ultra Slim 2.1 Home Theatre/Sound Bar with Subwoofer included.",
+      "Experience rich bass to make music and movies come to life with the help of 4 full range drivers"
+    ],
+
     Description:[
       "TRONICA was born of desire. The desire to create audio products that recreate the power of a live performance.", 
       "Stirring emotion through music. Escaping into the action of a film. Celebrating the love of the sport.",
@@ -2304,6 +2344,11 @@ MobileAccessories: [
     ],
     status: true,
     soldBy: "Reliance Retail",
+
+    KeyFeatures:[
+      "Zebronic was born of desire. The desire to create audio products that recreate the power of a live performance.", 
+      "Stirring emotion through music. Escaping into the action of a film. Celebrating the love of the sport."
+    ],
 
     Description:[
       "Sit back, relax and enjoy the powerful audio on the ZEB-BT460RUF tower speaker that features an elegant design which blends well in any decor.",
@@ -2339,6 +2384,11 @@ MobileAccessories: [
     status: true,
     soldBy: "Reliance Retail",
 
+    KeyFeatures:[
+      "Zebronic was born of desire. The desire to create audio products that recreate the power of a live performance.", 
+      "Stirring emotion through music. Escaping into the action of a film. Celebrating the love of the sport."
+    ],
+
     Description:[
       "Take that listening experience up to a notch with our 4.1 speakers ZEB-BT2750RUF that comes in a modern design.",
       "The speakers come with an LED display along with LED Lights and multi-connectivity options like wireless BT/ USB/ AUX/ and it also comes with a built-in FM Radio too."
@@ -2370,6 +2420,10 @@ MobileAccessories: [
     ],
     status: true,
     soldBy: "Reliance Retail",
+
+    KeyFeatures:[
+      "7.1 Speaker | Made In India, Wireless music streaming via Bluetooth, Stunning and stylish design | Enjoy music from multiple sources, Multiple playback options - Bluetooth | USB | SD | AUX | FM – Play it any way you want"
+    ],
 
     Description:[
       "I Kall IK-4444 7.1 Bluetooth Multimedia Home Theater with FM(1) Pen Drive(1) Aux Support",
@@ -4551,7 +4605,7 @@ MobileAccessories: [
       status: true,
       soldBy: "Ms AU SOLUTIONS",
   
-      Features:[
+      KeyFeatures:[
         "Processor: i5 4th H81 | Speed: 2.00 GHz (Base) - 4.30 GHz (Max) | Speed: 8 GT/s | 10 | TDP 65 W",
         "Memory and Storage: 4 GB -2600 RAM, Upgradable Up to 16GB | Storage: 1TB HDD",
         "Display: 18.5 FHD (1920x1080) | Brightness: 250 nits | IPS Display",
