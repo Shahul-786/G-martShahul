@@ -1,7 +1,6 @@
 export const Electronics = {
   Smartphone: [
     {
-      productId:60504,
       productImage:
         ["https://www.jiomart.com/images/product/original/493177752/apple-iphone-14-128-gb-blue-digital-o493177752-p593687859-0-202306301807.jpeg?im=Resize=(420,420)"],
       brand: "APPLE",
@@ -51,11 +50,10 @@ export const Electronics = {
         "Model:	14",
         "Brand:	Apple",
       ],
-
+      productId:60504
 
     },
     {
-      productId:60505,
       productImage:
         ["https://www.jiomart.com/images/product/original/491901537/apple-iphone-12-128-gb-green-digital-o491901537-p590441379-0-202108121852.jpeg?im=Resize=(420,420)"],
       brand: "APPLE",
@@ -104,10 +102,10 @@ export const Electronics = {
         "Subbrand: iPhone",
         "Model:	12",
         "Brand:	Apple",
-      ]
+      ],
+      productId:60505,
     },
     {
-      productId:60506,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvtorrsplk/vivo-t2x-5g-6gb-ram-128gb-rom-marine-blue-smartphone-product-images-orvtorrsplk-p603586321-0-202308040352.jpg?im=Resize=(420,420)"],
       brand: "vivo",
@@ -151,11 +149,11 @@ export const Electronics = {
         "Model:	Vivo T2X 5G",
         "Brand:	vivo",
         "SupportedNetwork: 5G",
-      ]
+      ],
+      productId:60506
 
     },
     {
-      productId:60507,
       productImage:
         ["https://www.jiomart.com/images/product/original/493177752/apple-iphone-14-128-gb-blue-digital-o493177752-p593687859-0-202306301807.jpeg?im=Resize=(420,420)"],
       brand: "APPLE",
@@ -204,11 +202,11 @@ export const Electronics = {
         "Subbrand: iPhone",
         "Model:	 14",
         "Brand:    Apple",
-      ]
+      ],
+      productId:60507
 
     },
     {
-      productId:60508,
       productImage:
         ["https://www.jiomart.com/images/product/original/494267913/vivo-v29-pro-5g-256-gb-12-gb-ram-space-black-mobile-phone-digital-o494267913-p605402228-0-202310031311.jpeg?im=Resize=(420,420)"],
       brand: "vivo",
@@ -251,11 +249,11 @@ export const Electronics = {
         "Colour:  Space Black",
         "Model:	Vivo v29Pro",
         "Brand:	VIVO",
-      ]
+      ],
+      productId:60508
 
     },
     {
-      productId:60509,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvv3wqt5sg/vivo-y16-4gb-ram-128gb-rom-stellar-black-smartphone-product-images-orvv3wqt5sg-p601457888-0-202305131132.jpg?im=Resize=(420,420)"],
       brand: "vivo",
@@ -297,10 +295,10 @@ export const Electronics = {
         "Colour:  Stellar Black",
         "Model:	Vivo Y16",
         "Brand:	VIVO",
-      ]
+      ],
+      productId:60509,
     },
     {
-      productId:60510,
       productImage:
         ["https://www.jiomart.com/images/product/original/rve1wicyzg/redmi-12-5g-4gb-ram-128gb-rom-jade-balck-product-images-orve1wicyzg-p603620217-0-202308041741.jpg?im=Resize=(420,420)"],
       brand: "REDMI",
@@ -341,10 +339,10 @@ export const Electronics = {
         "Colour:  Jade Balck",
         "Model:	Redmi 12",
         "Brand:	Redmi",
-      ]
+      ],
+      productId:60510
     },
     {
-      productId:60511,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvrl8bro25/redmi-13c-5g-8gb-ram-256gb-rom-starlight-black-smartphone-product-images-orvrl8bro25-p606827350-0-202312211050.jpg?im=Resize=(420,420)"],
       brand: "REDMI",
@@ -386,11 +384,11 @@ export const Electronics = {
         "Colour:  Starlight Black",
         "Model:	Redmi 13c 5G",
         "Brand:	Redmi",
-      ]
+      ],
+      productId:60511
 
     },
     {
-      productId:60512,
       productImage:
         ["https://www.jiomart.com/images/product/original/493838342/oppo-reno-10-5g-256-gb-8-gb-ram-gray-mobile-phone-digital-o493838342-p602930597-0-202308041722.jpeg?im=Resize=(420,420)"],
       brand: "OPPO",
@@ -432,10 +430,10 @@ export const Electronics = {
         "Colour:  Gray",
         "Model:	Reno 10",
         "Brand:	OPPO",
-      ]
+      ],
+      productId:60512,
     },
     {
-      productId:"60513",
       productImage:
         ["https://www.jiomart.com/images/product/original/493837816/oppo-f23-256-gb-8-gb-ram-cool-black-mobile-phone-digital-o493837816-p601433060-0-202305121751.jpeg?im=Resize=(420,420)"],
       brand: "OPPO",
@@ -479,12 +477,13 @@ export const Electronics = {
       "Colour:   Cool Black",
       "Model:	   OPPO F23",
       "Brand:	   OPPO",
-      ]
+      ],
+      productId:60513,
     },
 ],
-   MobileAccessories: [
+  
+MobileAccessories: [
     {
-      productId:60514,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvrygevuyc/xovo-back-cover-for-apple-iphone-15-plus-black-dual-protection-silicon-pack-of-1-product-images-orvrygevuyc-p606624796-0-202312081924.jpg?im=Resize=(420,420)"],
       brand: "Apple",
@@ -525,11 +524,11 @@ export const Electronics = {
          "ProductType: Mobile Case",
          "Color: Black",
          "Material: Silicon",
-        ]
+        ],
+        productId:60514
     },
 
     {
-      productId:60515,
       productImage:
       ["https://www.jiomart.com/images/product/original/rvgjgbzwv6/enflamo-black-silicon-back-cover-for-apple-iphone-13-product-images-orvgjgbzwv6-p592874723-0-202207211523.jpg?im=Resize=(420,420)"],
     brand: "Apple",
@@ -570,9 +569,9 @@ export const Electronics = {
         "Color: Black",
         "Material: Silicon",
       ],
+      productId:60515
   },
     {
-      productId:60516,
       productImage:
       ["https://www.jiomart.com/images/product/original/rveyv6qvrx/fastship-leather-finish-inside-tpu-wallet-stand-magnetic-closure-flip-cover-for-motorola-g84-5g-navy-blue-product-images-orveyv6qvrx-p606875639-0-202312231656.jpg?im=Resize=(420,420)"],
     brand: "FastShip",
@@ -609,10 +608,10 @@ export const Electronics = {
           "ProductType: Mobile Case",
           "Color: Blue",
           "Material: Artificial Leather",
-      ]
+      ],
+      productId:60516
   },
     {
-      productId:60517,
       productImage:
       ["https://www.jiomart.com/images/product/original/rvpaohzf7f/plastic-desktop-mobile-phone-tabletop-stand-mobile-holder-adjustable-foldable-mobile-stand-for-mobile-phone-and-tablets-up-to-9-inches-product-images-orvpaohzf7f-p599292084-0-202303140310.jpg?im=Resize=(420,420)"],
       brand: "boAt",
@@ -651,10 +650,10 @@ export const Electronics = {
           "PRODUCT INFORMATION",          
           "brand: boAt",
           "Warranty: 2 Years",
-        ]
+        ],
+        productId:60517
     },
     {
-      productId:60518,
       productImage:
       ["https://www.jiomart.com/images/product/original/rv2f8amdqv/tart-nothing-phone-45w-usb-c-power-adapter-white-in-box-packing-product-images-orv2f8amdqv-p604438869-0-202309071046.jpg?im=Resize=(420,420)"],
     brand: "Tart",
@@ -689,11 +688,11 @@ export const Electronics = {
         "ProductType: durable plastic",
         "Color: White",
         "Useage: When you plug in a compatible device, it should automatically start charging without the need for manual input.",
-      ]
+      ],
+      productId:60518
       
   },
     {
-      productId:60519,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvy1qa54r8/aibex-flip-cover-for-ipad-9-7-slim-light-cover-trifold-stand-tpu-made-black-dual-protection-pack-of-1-product-images-orvy1qa54r8-p602162029-0-202306051849.jpg?im=Resize=(420,420)",],
         brand: "Saco",
@@ -725,10 +724,10 @@ export const Electronics = {
           ],
           Description:[
               "Enhance your tablet experience with the Saco Tablet Flip Cover designed for 7-inch tablets. This innovative cover not only protects your tablet but also comes with a built-in Size-Clamp Wired USB Tablet Keyboard in sleek Black, providing a versatile and functional solution for your on-the-go computing needs."
-          ]
+          ],
+          productId:60519
          },
     {
-      productId:60520,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvq7jnc2od/quantum-qhm7307-mini-spill-resistant-usb-wired-slim-keyboard-for-laptop-desktop-black-product-images-orvq7jnc2od-p596084080-0-202212061034.jpg?im=Resize=(420,420)",],
         brand: "Quantum",
@@ -771,10 +770,10 @@ export const Electronics = {
             "Size: Handheld",
             "Hazardous Material: No",
             "Keyboard Type: Laptop Keyboard"
-          ]
+          ],
+          productId:60520
       },
     {
-      productId:60521,
       productImage:
       ["https://www.jiomart.com/images/product/original/rvz3qwjcfq/jcbl-accessories-wireless-charger-atmosphere-lamp-4-in-1-15w-fast-charging-bluetooth-speaker-and-sunrise-alarm-clock-for-bedroom-decor-white-product-images-orvz3qwjcfq-p605776945-0-202310251538.jpg?im=Resize=(420,420)",],
       brand: "JCBL",
@@ -814,10 +813,10 @@ export const Electronics = {
           "Hazardous Material: No",
           "Flamm ability: Not Flammable",
           "Storage Category: Normal storage"
-        ]
+        ],
+        productId:60521
     },
     {
-      productId:60522,
       productImage:
         ["https://www.jiomart.com/images/product/original/rvauke04gq/mobiviile-tempered-glass-guard-screen-protector-for-oneplus-pad-11-61-inch-pack-of-1-product-images-orvauke04gq-p606316365-0-202311251606.jpg?im=Resize=(420,420)",],
         brand: "MOBIVIILE",
@@ -866,11 +865,11 @@ export const Electronics = {
               "Anti Fingerprint: Yes",
               "Anti Glare: No",
               "Anti Reflection: No",
-          ]
+          ],
+          productId:60522
          },
 
          {
-          productId:60523,
           productImage:
           ["https://www.jiomart.com/images/product/original/rveyv6qvrx/fastship-leather-finish-inside-tpu-wallet-stand-magnetic-closure-flip-cover-for-motorola-g84-5g-navy-blue-product-images-orveyv6qvrx-p606875639-0-202312231656.jpg?im=Resize=(420,420)"],
         brand: "FastShip",
@@ -908,13 +907,13 @@ export const Electronics = {
             "ProductType: Mobile Case",
             "Color: Blue",
             "Material: Artificial Leather",
-          ]
+          ],
+          productId:60523
       },
     
   ],
   Tablets: [
     {
-      productId:60524,
       productImage:
         ["https://www.jiomart.com/images/product/original/493838842/samsung-galaxy-tab-s9-27-81-cm-11-inch-dynamic-amoled-2x-display-ram-8-gb-rom-128-gb-expandable-s-pen-in-box-wi-fi-5g-tablet-grey-digital-o493838842-p603574214-0-202308031941.jpeg?im=Resize=(420,420)"],
       brand: "SAMSUNG",
@@ -959,11 +958,11 @@ export const Electronics = {
           "Model: X716BE",
           "Wireless Internet Connectivity: Wi-Fi+Cellular",
           "Brand: Samsung"
-        ]
+        ],
+        productId:60524
        },
 
     {
-      productId:60525,
       productImage:
         ["https://www.jiomart.com/images/product/original/493666394/lenovo-27-94-cm-11-inch-wi-fi-5g-calling-tablet-8-gb-ram-256-gb-strom-grey-j607z-digital-o493666394-p601366221-0-202305111354.jpeg?im=Resize=(420,420)"],
       brand: "Lenovo",
@@ -1004,10 +1003,10 @@ export const Electronics = {
           "Model: J607Z",
           "Wireless Internet Connectivity: WiFi+Cellular",
           "Brand: Lenovo"
-        ]
+        ],
+        productId:60525
        },
     {
-      productId:60526,
       productImage:
         ["https://www.jiomart.com/images/product/original/493838332/xiaomi-pad-6-27-94-cm-11-inches-6-gb-ram-256-gb-rom-graphite-grey-wi-fi-tablet-vhu4404in-digital-o493838332-p606013816-0-202311071306.jpeg?im=Resize=(420,420)"],
       brand: "Xiaomi",
@@ -1052,11 +1051,11 @@ export const Electronics = {
           "PRODUCT INFORMATION",          
           "Wireless Internet Connectivity: WiFi+Cellular",
           "Brand: Xiaomi"
-        ]
+        ],
+        productId:60526
        },
     
       {
-      productId:60527,
       productImage:
       ["https://rukminim2.flixcart.com/image/416/416/xif0q/tablet/o/y/8/rmp2204-realme-original-imagrhcqdhdyc9tg.jpeg?q=70"],
       brand: "realme",
@@ -1096,11 +1095,11 @@ export const Electronics = {
           "PRODUCT INFORMATION",          
           "Wireless Internet Connectivity: WiFi+Cellular",
           "Brand: realme"
-        ]
+        ],
+        productId:60527
         },
       
       {
-      productId:60528,
       productImage:
         ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
       brand: "MOTOROLA",
@@ -1140,11 +1139,11 @@ export const Electronics = {
           "PRODUCT INFORMATION",          
           "Wireless Internet Connectivity: WiFi+Cellular",
           "Brand: MOTOROLA"
-        ]
+        ],
+        productId:60528
         },
               
     {
-    productId:60529,
     productImage:
       ["https://rukminim2.flixcart.com/image/416/416/xif0q/tablet/o/y/8/rmp2204-realme-original-imagrhcqdhdyc9tg.jpeg?q=70"],
       brand: "realme",
@@ -1184,11 +1183,11 @@ export const Electronics = {
           "PRODUCT INFORMATION",          
           "Wireless Internet Connectivity: WiFi+Cellular",
           "Brand: realme"
-        ]
+        ],
+        productId:60529
          
     },
     {
-    productId:60530,
     productImage:
       ["https://rukminim2.flixcart.com/image/416/416/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70"],
       brand: "APPLE",
@@ -1227,56 +1226,54 @@ export const Electronics = {
           "New ultra-wide camera with Centre Stage",
           "Now with the A13 Bionic chip",
           "Starts at 64 gigabytes of storage"
-
-
-        ]
+        ],
+        productId:60530
         },
-        {
-        productId:60531,
-        productImage:
-          ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
-          brand: "MOTOROLA",
-          shortDesc:
-            "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
-          ratings: 10,
-          mrp: 31.000,
-          discount:45,
-          additionalOffers: [
-              "HDFC Bank Offer: Rs.4000 HDFC Instant Bank discount and 6 Months No Cost EMI",
-              "Upto Rs. 60/- Cashback on your first order",
-            ],
-            bankOffers: [
-              "10% Instant discount. Min. Trnx 10,000/- Max discount Up to Rs. 2000/- On Bank Of Baroda Credit Cards & EMI.",
-              "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
-            ],
-            coupons: [
-              "Avail additional 3% discount on select Apple Watch",
-              "1000 OFF on TV",
-              "500 OFF on TV",
-            ],
-            status: "In stock",
-            soldBy: "Reliance Retail",  
+      {
+      productImage:
+        ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
+        brand: "MOTOROLA",
+        shortDesc:
+          "Tablet MOTOROLA Tab G62 4 GB RAM 64 GB ROM 10.61 inch with Wi-Fi Only Tablet (Frost Blue)",
+        ratings: 10,
+        mrp: 31.000,
+        discount:45,
+        additionalOffers: [
+            "HDFC Bank Offer: Rs.4000 HDFC Instant Bank discount and 6 Months No Cost EMI",
+            "Upto Rs. 60/- Cashback on your first order",
+          ],
+          bankOffers: [
+            "10% Instant discount. Min. Trnx 10,000/- Max discount Up to Rs. 2000/- On Bank Of Baroda Credit Cards & EMI.",
+            "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          ],
+          coupons: [
+            "Avail additional 3% discount on select Apple Watch",
+            "1000 OFF on TV",
+            "500 OFF on TV",
+          ],
+          status: "In stock",
+          soldBy: "Reliance Retail",  
 
-            KeyFeatures:[
-              "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-              "16.51 cm (6.5 inch) HD+ Display",
-              "50MP + 2MP + 2MP | 8MP Front Camera",
-              "5000 mAh Battery",
-              "Helio G85 Processor"
-            ],
-  
-            Description:[
-              "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
-          ],       
-          Specification:[
-              "PRODUCT INFORMATION",          
-              "Wireless Internet Connectivity: WiFi+Cellular",
-              "Brand: MOTOROLA"
-            ]
-            },
+          KeyFeatures:[
+            "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "16.51 cm (6.5 inch) HD+ Display",
+            "50MP + 2MP + 2MP | 8MP Front Camera",
+            "5000 mAh Battery",
+            "Helio G85 Processor"
+          ],
+
+          Description:[
+            "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
+        ],       
+        Specification:[
+            "PRODUCT INFORMATION",          
+            "Wireless Internet Connectivity: WiFi+Cellular",
+            "Brand: MOTOROLA"
+          ],
+          productId:60531,
+          },
     
         {
-        productId:60532,
         productImage:
           ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
           brand: "MOTOROLA",
@@ -1316,10 +1313,10 @@ export const Electronics = {
               "PRODUCT INFORMATION",          
               "Wireless Internet Connectivity: WiFi+Cellular",
               "Brand: MOTOROLA"
-            ]
+            ],
+            productId:60532
             },
      {
-      productId:60533,
       productImage:
         ["https://rukminim2.flixcart.com/image/416/416/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70"],
         brand: "APPLE",
@@ -1356,10 +1353,10 @@ export const Electronics = {
               "The 10.2-inch Retina display delivers stunning visuals with vibrant colors and sharp details,",
               "making it ideal for a wide range of activities, from productivity tasks to content consumption."
           ],
+          productId:60533
          },
 
-        {
-        productId:60534,  
+        { 
         productImage:
           ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
           brand: "MOTOROLA",
@@ -1394,12 +1391,12 @@ export const Electronics = {
   
             Description:[
               "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
-          ],       
+          ],   
+          productId:60534    
             },
             
       
       {
-      productId:60535,
       productImage:
           ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
           brand: "MOTOROLA",
@@ -1434,11 +1431,11 @@ export const Electronics = {
   
               Description:[
               "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
-          ],     
+          ],    
+          productId:60535 
       },
     
       {
-      productId:60536,
       productImage:
         ["https://rukminim2.flixcart.com/image/416/416/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70"],
         brand: "APPLE",
@@ -1475,10 +1472,9 @@ export const Electronics = {
               "The 10.2-inch Retina display delivers stunning visuals with vibrant colors and sharp details,",
               "making it ideal for a wide range of activities, from productivity tasks to content consumption."
           ],
-            
+          productId:60536
           },
         {
-        productId:60537,
         productImage:
           ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
           brand: "MOTOROLA",
@@ -1513,13 +1509,13 @@ export const Electronics = {
   
               Description:[
               "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
-          ],     
+          ],  
+          productId:60537   
 
             },
 
             
         {
-        productId:60538,
         productImage:
         ["ttps://rukminim2.flixcart.com/image/416/416/xif0q/tablet/1/u/j/-original-imagpx52ufs5fqdk.jpeg?q=70"],
         brand: "Lenovo",
@@ -1556,10 +1552,10 @@ export const Electronics = {
           "The Lenovo Tablet M9 in Frost Blue is a portable and feature-rich tablet designed to cater to various digital needs.",
           "The 9-inch display offers a compact form factor while providing a good balance between portability and screen real estate."
         ],
+        productId:60538,
         },
 
-      {
-        productId:60539, 
+      { 
         productImage:
           ["https://rukminim2.flixcart.com/image/416/416/l3uhvgw0/tablet/3/y/a/zabn0007in-motorola-original-imagevdg5b5sc84m.jpeg?q=70"],
           brand: "MOTOROLA",
@@ -1594,10 +1590,10 @@ export const Electronics = {
   
               Description:[
               "Experience the perfect blend of style and performance with the MOTOROLA Tab G62. This sleek 10.61-inch Wi-Fi+4G Tablet, in the elegant Frost Blue, features 4 GB of RAM, 128 GB of storage, and a range of features designed to enhance your productivity and entertainment."
-          ],     
+          ],  
+          productId:60539   
             },
       {
-          productId:60540,
           productImage:
             ["ttps://rukminim2.flixcart.com/image/416/416/xif0q/tablet/1/u/j/-original-imagpx52ufs5fqdk.jpeg?q=70"],
             brand: "Lenovo",
@@ -1634,12 +1630,12 @@ export const Electronics = {
                   "The Lenovo Tablet M9 in Frost Blue is a portable and feature-rich tablet designed to cater to various digital needs.",
                   "The 9-inch display offers a compact form factor while providing a good balance between portability and screen real estate."
                 ],
+                productId:60540
               },
             ],
 
       Tv: [
     {
-      productId:60541,
       productImage:[
         "https://rukminim2.flixcart.com/image/416/416/xif0q/television/e/2/w/-original-imagsn6dxk2ha2en.jpeg?q=70"],
       brand: "BeethoSOL",
@@ -1679,10 +1675,10 @@ export const Electronics = {
           "With its 32-inch HD Ready LED screen", 
           "it delivers clear and vibrant visuals for your favorite shows, movies, and content."
       ],
+      productId:60541
     },
 
     {
-      productId:60542,
       productImage:[
         "https://rukminim2.flixcart.com/image/416/416/xif0q/television/z/w/r/-original-imagnrjvfnwkq8bg.jpeg?q=70"],
       brand: "iFFALCON",
@@ -1718,15 +1714,14 @@ export const Electronics = {
         "1 GB RAM & 8 GB ROM",
         "64-bit Quad Core Processor"
       ],
-
       Description:[
           "The iFFALCON by TCL 80 cm (32 inch) HD Ready LED Smart Android TV (iFF32S53) is designed to offer a convenient and feature-rich viewing experience.",
           "The 32-inch HD Ready LED screen delivers clear and detailed visuals, making it suitable for a variety of content."
       ],
+      productId:60542
     },
 
     {
-      productId:60543,
       productImage:[
         "https://www.jiomart.com/images/product/original/492403650/samsung-wondertainment-80-cm-32-inch-smart-hd-ready-tv-ua32t4340bkxxl-digital-o492403650-p591604009-0-202206102115.jpeg?im=Resize=(420,420)"],
       brand: "SAMSUNG",
@@ -1764,13 +1759,11 @@ export const Electronics = {
       Description:[
           "The SAMSUNG 80 cm (32 Inch) HD Ready LED Smart Tizen TV (UA32T4380AKXXL) is designed to provide a high-quality and immersive viewing experience.", 
           "The 32-inch HD Ready LED screen delivers clear and vibrant visuals, suitable for a variety of content, including movies, TV shows, and more."
-
-
       ],
+      productId:60543
     },
 
     {
-      productId:60544,
       productImage:[
         "https://www.jiomart.com/images/product/original/493837806/sony-bravia-108-cm-43-inches-4k-ultra-hd-smart-led-google-tv-kd-43x70l-black-digital-o493837806-p603479671-0-202308020510.jpeg?im=Resize=(420,420)"],
       brand: "TCl",
@@ -1806,13 +1799,11 @@ export const Electronics = {
       Description:[
           "The TCL 108 cm (43 inch) QLED Ultra HD (4K) Smart Google TV (43T6G) is designed to offer a premium and feature-rich viewing experience.", 
           "The QLED display technology delivers vibrant colors, sharp contrast, and detailed visuals, making it suitable for a variety of content, including movies, sports, and gaming."
-
-
       ],
+      productId:60544
     },
 
     {
-      productId:60545,
       productImage:[
         "https://www.jiomart.com/images/product/original/493911329/lg-80-04-cm-32-inches-hd-ai-smart-led-tv-32lq645bpta-digital-o493911329-p606288721-0-202311241131.jpeg?im=Resize=(420,420)"
       ],
@@ -1850,10 +1841,10 @@ export const Electronics = {
           "The LG 80 cm (32 inch) HD Ready LED Smart WebOS TV (32LM565BPTA) is designed to provide a smart and interactive viewing experience.",
           "The 32-inch HD Ready LED screen delivers clear and vibrant visuals suitable for a variety of content."
       ],
+      productId:60545
     },
 
     {
-      productId:60546,
       productImage:[
         "https://rukminim2.flixcart.com/image/416/416/xif0q/television/t/e/g/dy-ld43u4s-w-dy-ld43u4s-w-dyanora-original-imagmyczbxc9jzbk.jpeg?q=70",
         "https://www.jiomart.com/images/product/original/493179499/bpl-109-22-cm-43-inch-ultra-hd-4k-led-smart-tv-a1000-43u-c7311-digital-o493179499-p603561206-0-202308031405.jpeg?im=Resize=(420,420)"
@@ -1884,10 +1875,10 @@ export const Electronics = {
           "The Dyanora 109 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV (DY-LD43U0S) is designed to provide a high-quality and feature-rich viewing experience.",
           "The 43-inch Ultra HD (4K) LED screen delivers crisp and detailed visuals, making it suitable for a variety of content, including movies, sports, and gaming."
       ],
+      productId:60546
       },
 
       {
-        productId:60547,
         productImage:[
           "https://www.jiomart.com/images/product/original/493842026/sony-bravia-139-cm-55-inches-4k-ultra-hd-smart-led-google-tv-kd-55x75l-black-digital-o493842026-p603363546-0-202307281728.jpeg?im=Resize=(420,420)"
         ],
@@ -1925,10 +1916,10 @@ export const Electronics = {
           "The Sony Bravia KD-55X75L is a 55-inch 4K Ultra HD Smart LED TV designed to offer an immersive and high-quality viewing experience.",
           "The 4K Ultra HD resolution ensures sharp and lifelike visuals, making it suitable for watching movies, streaming conten"
         ],
+        productId:60547
       },
 
       {
-        productId:60548,
         productImage:[
           "https://www.jiomart.com/images/product/original/493179126/sansui-80-cm-32-inch-hd-ready-smart-tv-neo-series-jsw32cshd-digital-o493179126-p593746807-0-202209140745.jpeg?im=Resize=(420,420)"
         ],
@@ -1968,11 +1959,11 @@ export const Electronics = {
           "The Sansui Neo 80 cm (32 inch) HD Ready LED Smart Linux TV (JSWY32CSHD) is designed to provide a combination of clear visuals and smart features for an enhanced viewing experience.",
           "The Sansui Neo 80 cm (32 inch) HD Ready LED Smart Linux TV (JSWY32CSHD) is designed to provide a combination of clear visuals and smart features for an enhanced viewing experience."
         ],
+        productId:60548
 
       },
       
       {
-        productId:60549,
         productImage:[
           "https://www.jiomart.com/images/product/original/493666720/lg-108-cm-43-inch-ultra-hd-4k-smart-led-tv-uq80-series-43uq8020psb-digital-o493666720-p597698302-0-202301191122.jpeg?im=Resize=(420,420)",
           "https://www.jiomart.com/images/product/original/492338697/lg-108-cm-43-inch-full-hd-led-smart-tv-43lm5620-digital-o492338697-p590440956-0-202108121623.jpeg?im=Resize=(420,420)",
@@ -2014,10 +2005,10 @@ export const Electronics = {
           "model 43UQ8020PSB, is designed to provide a premium viewing experience with advanced features:",
           "The 43-inch Ultra HD (4K) LED screen delivers crisp, detailed visuals with enhanced clarity"
         ],
+        productId:60549
       },
 
-      {
-        productId:60550,  
+      {  
         productImage:[
           "https://www.jiomart.com/images/product/original/493711641/tcl-147-32-cm-58-inch-ultra-hd-4k-smart-tv-p635-series-58p635-digital-o493711641-p599720175-0-202303221906.jpeg?im=Resize=(420,420)"
         ],
@@ -2054,13 +2045,13 @@ export const Electronics = {
           "The TCL P635 Pro 126 cm (50 inch) Ultra HD (4K) LED Smart Google TV (50P635 Pro) is designed to offer a premium and feature-rich viewing experience:",
           "The 50-inch Ultra HD (4K) LED screen delivers stunning visuals with sharp details and vibrant colors, suitable for a variety of content."
         ],
+        productId:60550
       },
   ],
 
 
   HomeTheatre: [
     {
-      productId:60551,
       productImage:[
         "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/home-theatre/a/i/f/my-dj-home-music-system-with-6inch-woofer-bluetooth-dotsun-original-imaghbnhngg2hzj8.jpeg?q=70"],
       brand: "Dotsun",
@@ -2089,12 +2080,12 @@ export const Electronics = {
           "The Dotsun My Dj 3400W Bluetooth Home Theatre is designed to deliver a powerful audio experience in a stylish black finish.",
           "With a total power output of 3400W, this home theater system aims to provide immersive sound for your entertainment setup."
       ],
+      productId:60551
 
     },
 
     
     {
-      productId:60552,
       productImage:[
         "https://www.jiomart.com/images/product/original/rv10hzv5de/zebronics-zeb-impact-component-home-theatre-system-black-product-images-orv10hzv5de-p606468453-0-202312011318.jpg?im=Resize=(420,420)"],
       brand: "Zebronics",
@@ -2122,10 +2113,10 @@ export const Electronics = {
       Description:[
       "Sit back, relax and enjoy the powerful audio on the ZEB-Impact tower speaker that features an elegant design which blends well in any decor."
       ],
+      productId:60552
     },
 
     {
-      productId:60553,
       productImage:[
         "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
       brand: "I Kall",
@@ -2152,11 +2143,11 @@ export const Electronics = {
 
       Description:[
       "I Kall 7.1 Channel IK-2222 Home Theater System (Black)",
-      ]
+      ],
+      productId:60553
     },
 
-      {
-      productId:60554,    
+      {    
       productImage:[
         "https://www.jiomart.com/images/product/original/rvhibv17um/kall-ik-401-4-1-channel-60w-bt-home-theatre-product-images-orvhibv17um-p593318322-0-202208011028.jpg?im=Resize=(420,420)",
         "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
@@ -2187,11 +2178,11 @@ export const Electronics = {
       "Power Output: 20Wx1+10Wx7, Power Source: AC 180V-260V/50Hz, Frequency: 40Hz-200Hz (Main Unit), 200Hz-20KHz (Satellite)",
       "Bluetooth- YES, Memory Card Slot- Yes, Configuration 4.1",
       "Power Output (RMS) 80 W Impedance-MAIN UNIT 4 OHMS, SATELLITE 8 OHMS"
-      ]
+      ],
+      productId:60554
     },
 
        {
-      productId:60555,
       productImage:[
         "https://www.jiomart.com/images/product/original/rve9rcyumm/ikall-ik-411-80w-bluetooth-home-theatre-system-with-fm-1-aux-1-usb-support-and-remote-control-4-1-channel-product-images-orve9rcyumm-p593318368-0-202208011030.jpg?im=Resize=(420,420)",
         "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
@@ -2219,11 +2210,11 @@ export const Electronics = {
 
       Description:[
       "IKALL IK-411 80W Bluetooth Home Theatre System with FM(1) AUX(1) USB Support and Remote Control (4.1 Channel)"
-      ]
+      ],
+      productId:60555
     },
 
-    {
-    productId:60556 ,
+    { 
     productImage:[
       "https://www.jiomart.com/images/product/original/rvqdf9yysv/f-d-a110-35-w-2-1-channel-wired-multimedia-speaker-black-product-images-orvqdf9yysv-p597702625-0-202301191331.jpg?im=Resize=(420,420)",
       "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
@@ -2251,11 +2242,11 @@ export const Electronics = {
 
     Description:[
     "Efficient design that saves energy by consuming less power, built in avr(automatic voltage regulator) for wide main operating voltage range, Portable: YesProduct dimension is: subwoofer (wxhxd) 198 x 210 x 227mm, satellite (wxhxd) 128 x 116 x 110mmPreferred room size: Suitable for 10x10 feet room."
-    ]
+    ],
+    productId:60556
   },
 
   {
-    productId: 60557,
     productImage:[
       "https://www.jiomart.com/images/product/original/rvy55blxrc/tronica-tr-1501-deep-bass-home-theater-with-subwoofer-2-1-channel-with-55w-premium-signature-sound-multiple-connectivity-modes-master-remote-and-sleek-finish-black-product-images-orvy55blxrc-p596211444-0-202212091106.jpg?im=Resize=(420,420)",
     ],
@@ -2284,11 +2275,11 @@ export const Electronics = {
     Description:[
       "TRONICA was born of desire. The desire to create audio products that recreate the power of a live performance.", 
       "Stirring emotion through music. Escaping into the action of a film. Celebrating the love of the sport.",
-    ]
+    ],
+    productId: 60557
   },
   
   {
-    productId:60558,
     productImage:[
       "https://www.jiomart.com/images/product/original/rv1wm1gsdo/zebronics-bt460ruf-component-home-theatre-system-black-product-images-orv1wm1gsdo-p606469408-0-202312011414.jpg?im=Resize=(420,420)",
     ],
@@ -2317,11 +2308,11 @@ export const Electronics = {
     Description:[
       "Sit back, relax and enjoy the powerful audio on the ZEB-BT460RUF tower speaker that features an elegant design which blends well in any decor.",
       "Invite your friends over for a karaoke evening as the speaker comes with a wired mic to enhance your experience."
-    ]
+    ],
+    productId:60558
   },
 
   {
-    productId:60559,
     productImage:[
       "https://www.jiomart.com/images/product/original/rvrcl6awlz/zebronics-bt2750ruf-4-1-component-home-theatre-system-black-product-images-orvrcl6awlz-p606469411-0-202312011414.jpg?im=Resize=(420,420)",
       "https://www.jiomart.com/images/product/original/rv1wm1gsdo/zebronics-bt460ruf-component-home-theatre-system-black-product-images-orv1wm1gsdo-p606469408-0-202312011414.jpg?im=Resize=(420,420)"
@@ -2351,11 +2342,11 @@ export const Electronics = {
     Description:[
       "Take that listening experience up to a notch with our 4.1 speakers ZEB-BT2750RUF that comes in a modern design.",
       "The speakers come with an LED display along with LED Lights and multi-connectivity options like wireless BT/ USB/ AUX/ and it also comes with a built-in FM Radio too."
-    ]
+    ],
+    productId:60559
   },
 
   {
-    productId:60560,
     productImage:[
       "https://www.jiomart.com/images/product/original/rvqzs7pngh/i-kall-7-1-channel-ik-2222-home-theater-system-black-product-images-orvqzs7pngh-p593318316-0-202208011028.jpg?im=Resize=(420,420)"],
     brand: "I Kall",
@@ -2382,12 +2373,12 @@ export const Electronics = {
 
     Description:[
       "I Kall IK-4444 7.1 Bluetooth Multimedia Home Theater with FM(1) Pen Drive(1) Aux Support",
-    ]
+    ],
+    productId:60560
   },
   ],
   TvRemote: [
     {
-      productId:60561,
       productImage:[
         "https://www.jiomart.com/images/product/original/rvbxeqegem/crystonics-jio-voice-function-remote-compatible-for-set-top-box-and-jio-fiber-box-jio-set-top-box-remote-controller-black-product-images-orvbxeqegem-p598913831-0-202302281315.jpg?im=Resize=(420,420)"],
       brand: "Crystonics",
@@ -2422,9 +2413,10 @@ export const Electronics = {
       Description:[
           "Crystonics Jio Voice Function Remote Compatible for Set Top Box and Jio Fiber Box Jio Set Top Box Remote Controller (Black)"
       ],
+      productId:60561
     },
+    
     {
-      productId:60562,
       productImage:[
         "https://www.jiomart.com/images/product/original/rvc1zdyvih/electvision-remote-control-for-lg-magic-led-product-images-orvc1zdyvih-p593924824-0-202209212329.jpg?im=Resize=(420,420)"],
       brand: "Electvision",
@@ -2458,9 +2450,9 @@ export const Electronics = {
       Description:[
           "Electvision Remote Control for Lg Magic Led"
       ],
+      productId:60562
     },
     {
-      productId:60563,
       productImage:
         ["https://www.jiomart.com/images/product/original/rveyp9lw3g/akshita-trading-remote-control-for-takai-led-lcd-tv-black-product-images-orveyp9lw3g-p598752708-0-202302250213.jpg?im=Resize=(420,420)"],
       brand: "AKSHITA",
@@ -2494,10 +2486,10 @@ export const Electronics = {
       Description:[
           "Enhance your television experience with the AKSHITA TRADING Remote Control designed for Takai LED and LCD TVs. This sleek and functional black remote control offers a convenient solution to control your TV with ease."
       ],
+      productId:60563
     },
 
     {
-      productId:60564,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvgmsmauc7/earthma-remote-control-for-fan-and-light-black-product-images-orvgmsmauc7-p595668226-0-202211270205.jpg?im=Resize=(420,420)"],
@@ -2531,10 +2523,10 @@ export const Electronics = {
       Description:[
           "Simplify your home comfort with the EARTHMA Remote Control designed for both fan and light control. This stylish black remote provides a convenient solution to manage the ambiance of your space with ease."
       ],
+      productId:60564
     },
 
     {
-      productId:60565,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvaieft9ww/xpecial-mi-4a-with-voice-control-function-remote-compatible-with-mi-4k-smart-led-lcd-tv-product-images-orvaieft9ww-p604235051-0-202308301441.jpg?im=Resize=(420,420)"],
@@ -2569,9 +2561,9 @@ export const Electronics = {
       Description:[
           "Xpecial Mi-4A With Voice Control Function Remote Compatible With Mi 4K Smart Led Lcd Tv"
       ],
+      productId:60565
     },
     {
-      productId:60566,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvz9mjkbcg/akshita-trading-remote-control-for-cemex-led-lcd-smart-tv-black-product-images-orvz9mjkbcg-p598830082-0-202302261404.jpg?im=Resize=(420,420)"],
@@ -2605,11 +2597,11 @@ export const Electronics = {
 
       Description:[
       "Upgrade your home entertainment experience with the AKSHITA TRADING Remote Control designed for Cemex LED and LCD Smart TVs. This sleek black remote control offers a convenient and intuitive way to navigate and control your smart television."
-      ] 
+      ] ,
+      productId:60566
   },
 
     {
-      productId:60567,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rv4kuxrymm/xpecial-remote-controller-for-jio-fibre-set-top-box-black-product-images-orv4kuxrymm-p598836222-0-202302261637.jpg?im=Resize=(420,420)"],
@@ -2644,10 +2636,10 @@ export const Electronics = {
       Description:[
           "Enhance your Jio Fibre Set Top Box experience with the Xpecial Remote Controller. This sleek and functional black remote is specifically designed for Jio Fibre Set Top Boxes, offering convenient and efficient control of your television viewing and streaming."
       ],
+      productId:60567
     },
 
     {
-      productId:60568,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvli9p5i3u/royalcool-plastic-remote-control-for-lg-magic-led-with-mouse-and-cursor-product-images-orvli9p5i3u-p600466988-0-202304122221.jpg?im=Resize=(420,420)"],
@@ -2682,10 +2674,10 @@ export const Electronics = {
       Description:[
           "Transform your TV experience with the royalcool Plastic Remote Control designed for LG Magic LED TVs. This innovative remote control goes beyond traditional functions, featuring a built-in mouse and cursor for intuitive navigation and control of your LG Magic LED television."
       ],
+      productId:60568
     },
 
     {
-      productId:60569,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvmj3qgqrj/earthma-remote-controls-for-samsung-3d-smart-lcd-led-tv-black-product-images-orvmj3qgqrj-p595649618-0-202211262004.jpg?im=Resize=(420,420)"],
@@ -2721,10 +2713,11 @@ export const Electronics = {
       Description:[
           "Enhance your viewing experience with the EARTHMA Remote Controls designed for Samsung 3D Smart LCD LED TVs. This black remote control provides a convenient and user-friendly way to navigate and control your Samsung television with precision and ease."
       ],
+      
+      productId:60569
     },
 
     {
-      productId:60570,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvqxj9dxv4/hdf-plastic-remote-control-for-samsung-smart-tv-smart-hub-touch-with-usb-function-rmctph1ap1-bn59-01185d-bn59-01184d-bn59-01182d-product-images-orvqxj9dxv4-p593982204-0-202209231203.jpg?im=Resize=(420,420)"],
@@ -2756,13 +2749,13 @@ export const Electronics = {
       ],
       Description:[
           "HDF Plastic Remote Control For Samsung Smart Tv Smart Hub Touch With Usb Function Rmctph1Ap1 Bn59-01185D Bn59-01184D Bn59-01182D(257)"
-      ]
+      ],
+      productId:60570
 
     },
 
     
     {
-      productId:60571,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rv5bykxlm9/royalcool-eremote-e-remote-remote-for-mi-led-smart-tv-4a-product-images-orv5bykxlm9-p600479282-0-202304130909.jpg?im=Resize=(420,420)"],
@@ -2799,11 +2792,12 @@ export const Electronics = {
       Description:[
           "'Upgrade your Mi LED Smart TV 4A experience with the royalcool Eremote. This specialized remote control is designed to complement your Mi TV, offering convenient and efficient control over your entertainment, all within a sleek and user-friendly design."
       ],
+      productId:60571
     },
   ],
+
   WashingMachine: [
     {
-      productId:60572,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/492664434/lg-7-kg-5-star-semi-automatic-top-loading-washing-machine-p7020ngaz-dark-gray-wind-jet-dry-digital-o492664434-p591053951-0-202310031944.jpeg?im=Resize=(420,420)"
@@ -2840,9 +2834,9 @@ export const Electronics = {
       Description:[
           "Experience efficient and convenient laundry days with the LG 7 Kg Semi-Automatic Top Loading Washing Machine. This model, in a stylish Dark Gray finish with Wind Jet Dry technology, is designed to make your laundry routine faster and more effective."
       ],
+      productId:60572
     },
     {
-      productId:60573,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491891981/lg-8-kg-top-semi-automatic-washing-machine-with-roller-jet-pulsator-p8030sraz-burgundy-digital-o491891981-p590442675-0-202310031958.jpeg?im=Resize=(420,420)",
@@ -2882,10 +2876,10 @@ export const Electronics = {
       Description:[
           "Make laundry days a breeze with the LG 8 Kg Top Semi-Automatic Washing Machine. In a stylish Burgundy color, this washing machine is equipped with advanced features, including a Roller Jet Pulsator, to ensure thorough cleaning and efficient performance."
       ],
+      productId:60573
     },
 
     {
-      productId:60574,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491604539/whirlpool-7-5-kg-5-star-fully-automatic-top-loading-washing-machine-whitemagic-elite-7-5-grey-hard-water-wash-digital-o491604539-p590039969-0-202009260717.jpeg?im=Resize=(420,420)"],
@@ -2919,11 +2913,11 @@ export const Electronics = {
 
       Description:[
           "Experience cutting-edge laundry technology with the Whirlpool WHITEMAGIC ELITE 7.5 Fully-Automatic Top Loading Washing Machine. This Grey-colored washing machine, equipped with Hard Water Wash, offers a perfect blend of efficiency, convenience, and performance."
-      ]
+      ],
+      productId:60574
     },
 
     {
-     productId:60575,
      productImage:
         [
           "https://www.jiomart.com/images/product/original/491903107/ifb-8-kg-5-star-front-load-washing-machine-2x-power-steam-senator-wss-8014-silver-in-built-heater-4-years-comprehensive-warranty-digital-o491903107-p590441018-0-202310031956.jpeg?im=Resize=(420,420)"],
@@ -2959,10 +2953,10 @@ export const Electronics = {
       [
           "Elevate your laundry experience with the IFB SENATOR WSS 8014 Front Load Washing Machine. This advanced washing machine in Silver comes with 2X Power Steam, ensuring impeccable cleaning, energy efficiency, and a host of innovative features for a seamless laundry process."
       ],
+      productId:60575
     },
 
     {
-      productId:60576,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491902883/bosch-8-kg-front-loading-fully-automatic-with-washing-machine-with-ecosilence-drive-series-6-waj2846sin-sliver-digital-o491902883-p590442044-0-202108122305.jpeg?im=Resize=(420,420)"],
@@ -2998,9 +2992,9 @@ export const Electronics = {
       Description:[
           "Experience unparalleled laundry efficiency with the Bosch Series 6 WAJ2846SIN Front Loading Fully Automatic Washing Machine. This Silver-colored washing machine is equipped with the innovative EcoSilence Drive, delivering powerful and silent performance for a superior laundry experience."
       ],
+      productId:60576
     },
     {
-      productId:60577,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491666470/samsung-7-kg-top-loading-semi-automatic-washing-machine-with-double-storm-pulsator-wt70m3200hl-tl-digital-o491666470-p590442020-0-202108122257.jpeg?im=Resize=(420,420)"],
@@ -3035,9 +3029,9 @@ export const Electronics = {
       Description:[
           "Elevate your laundry experience with the Samsung WT70M3200HL/TL Semi-Automatic Washing Machine. This top-load washing machine in Light Grey not only boasts a generous 7.0 Kg capacity but also features Inverter technology, a 5-star energy rating, and Air Turbo Drying for efficient and quick laundry care."
       ],
+      productId:60577
     },
     {
-      productId:60578,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvus94c9lk/dmr-model-no-dmr-46-1218-single-tub-top-load-portable-mini-4-6-kgs-washing-machine-with-2-kg-steel-dryer-basket-blue-product-images-orvus94c9lk-p602469972-0-202306151915.jpg?im=Resize=(420,420)"],
@@ -3072,9 +3066,9 @@ export const Electronics = {
       Description:[
           "Enhance your laundry routine with the Samsung WT70M3200HL/TL Semi-Automatic Washing Machine. With a generous 7.0 Kg capacity, Inverter technology, and Air Turbo Drying, this top-load washing machine in Light Grey ensures efficient and thorough cleaning of your clothes while providing energy savings and quick drying."
       ],
+      productId:60578
     },
     {
-      productId:60579,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/493620728/foxsky-7-5-kg-top-loading-semi-automatic-washing-machine-with-3d-scrub-technology-aqua-wash-maroon-digital-o493620728-p594370201-0-202210092129.jpeg?im=Resize=(420,420)"],
@@ -3112,15 +3106,13 @@ export const Electronics = {
 
       Description:[
           "Revolutionize your laundry experience with the Foxsky Top Loading Semi-Automatic Washing Machine. Featuring a generous 7.5 Kg capacity, 3D Scrub Technology, and Aqua Wash functionality, this Maroon-colored washing machine ensures thorough and efficient cleaning for your clothes."
-      ]
+      ],
+      productId:60579
     },
     {
-      productId:60580,
       productImage:
         [
-          "https://www.jiomart.com/images/product/original/492573236/panasonic-7-5-kg-top-load-fully-automatic-washing-machine-na-f75c1lrb-digital-o492573236-p592242747-0-202311091822.jpeg?im=Resize=(420,420)",
-          "https://www.jiomart.com/images/product/original/491666470/samsung-7-kg-top-loading-semi-automatic-washing-machine-with-double-storm-pulsator-wt70m3200hl-tl-digital-o491666470-p590442020-0-202108122257.jpeg?im=Resize=(420,420)",
-          "https://www.jiomart.com/images/product/original/492664434/lg-7-kg-5-star-semi-automatic-top-loading-washing-machine-p7020ngaz-dark-gray-wind-jet-dry-digital-o492664434-p591053951-0-202310031944.jpeg?im=Resize=(420,420)"
+          "https://www.jiomart.com/images/product/original/492573236/panasonic-7-5-kg-top-load-fully-automatic-washing-machine-na-f75c1lrb-digital-o492573236-p592242747-0-202311091822.jpeg?im=Resize=(420,420)"
           ],
       brand: "Panasonic",
       shortDesc:
@@ -3155,13 +3147,14 @@ export const Electronics = {
       Description:[
           "Experience unparalleled convenience in laundry care with the Panasonic NA-F75C1LRB Top Load Fully Automatic Washing Machine. Boasting a generous 7.5 kg capacity, this washing machine combines efficient washing performance with user-friendly features to make your laundry routine a breeze."
       ],
+      productId:60580
     },
 
     {
-      productId:60581,
       productImage:
         [
-          "https://www.jiomart.com/images/product/original/492664322/onida-7-kg-top-load-fully-automatic-washing-machine-t70fgd-digital-o492664322-p590969235-0-202112311339.jpeg?im=Resize=(420,420)"],
+          "https://www.jiomart.com/images/product/original/492664322/onida-7-kg-top-load-fully-automatic-washing-machine-t70fgd-digital-o492664322-p590969235-0-202112311339.jpeg?im=Resize=(420,420)"
+        ],
       brand: "Onida",
       shortDesc:
         "WashingMachine Onida 7 Kg Top Load Fully Automatic Washing machine, T70FGD",
@@ -3196,11 +3189,12 @@ export const Electronics = {
       Description:[
           "Upgrade your laundry experience with the Onida T70FGD Top Load Fully Automatic Washing Machine. With a generous 7 kg capacity, this washing machine combines efficient performance, convenience, and innovative features to make your laundry routine effortless and enjoyable."
       ],
+      productId:60581
     },
   ],
+
   Irons: [
     {
-      productId:60582,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvocbthojf/maharaja-whiteline-di-109-1000-w-dry-iron-blue-product-images-orvocbthojf-p599024231-0-202303030713.jpg?im=Resize=(420,420)"
@@ -3238,10 +3232,10 @@ export const Electronics = {
       Description:[
           "Make ironing a breeze with the Maharaja Whiteline DI-109 Dry Iron. With a power rating of 1000 W and a stylish Blue color, this dry iron not only delivers efficient ironing but also adds a touch of elegance to your daily chores."
       ],
+      productId:60582
     },
 
     {
-      productId:60583,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491186175/bajaj-majesty-dx-4-dry-iron-white-digital-o491186175-p491186175-0-202010061551.png?im=Resize=(420,420)"],
@@ -3279,9 +3273,9 @@ export const Electronics = {
       Description:[
           "Experience efficient and crisp ironing with the Bajaj Majesty DX 4 Dry Iron. With a powerful 1000 Watts heating element and a classic White design, this dry iron combines performance and style to make your ironing tasks a breeze."
       ],
+      productId:60583
     },
     {
-      productId:60584,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491281337/bajaj-majesty-dx-11-dry-iron-white-blue-digital-o491281337-p590040184-0-202009260735.jpeg?im=Resize=(420,420)"],
@@ -3315,10 +3309,10 @@ export const Electronics = {
 
       Description:[
           "Bajaj Majesty DX 11, 1000 Watts, Dry Iron, Multiple Temperature Levels, White and Blue"
-      ]
+      ],
+      productId:60584
     },
     {
-      productId:60585,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/492664307/lifelong-lldi09-1100-watts-dry-iron-blue-and-white-digital-o492664307-p590996601-0-202207061810.jpeg?im=Resize=(420,420)"],
@@ -3356,10 +3350,10 @@ export const Electronics = {
       Description:[
           "Effortlessly achieve wrinkle-free clothes with the Lifelong LLDI09 Dry Iron. Featuring a robust 1100 Watts heating element, temperature control, and an attractive Blue and White design, this dry iron combines power and style for a seamless ironing experience."
       ],
+      productId:60585
     },
 
     {
-      productId:60586,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/490074352/philips-gc1015-steam-iron-with-self-cleaning-function-american-heritage-soleplate-blue-digital-o490074352-p590441099-0-202108121734.jpeg?im=Resize=(420,420)"],
@@ -3397,10 +3391,10 @@ export const Electronics = {
       Description:[
           "Achieve impeccable ironing results with the Lifelong LLDI09 Dry Iron. With a powerful 1100 Watts heating element, customizable temperature control, and an appealing Blue and White design, this dry iron offers a perfect blend of performance and style for your ironing needs."
       ],
+      productId:60586
     },
 
     {
-      productId:60587,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/492866331/morphy-richards-daisy-1000-watts-non-stick-coated-soleplate-dry-iron-white-and-maroon-digital-o492866331-p603693958-0-202308071708.jpeg?im=Resize=(420,420)"],
@@ -3437,11 +3431,11 @@ export const Electronics = {
 
       Description:[
           "Experience efficient and stylish ironing with the Morphy Richards Daisy Dry Iron. With a powerful 1000 Watts heating element, non-stick coated soleplate, and an elegant White and Maroon design, this dry iron combines performance and aesthetics for a delightful ironing experience."
-      ]
+      ],
+      productId:60587
     },
 
     {
-      productId:60588,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491581704/usha-aurora-1000-watts-dry-iron-with-innovative-tail-light-indicator-black-digital-o491581704-p590948210-0-202112160358.jpeg?im=Resize=(420,420)"],
@@ -3478,11 +3472,11 @@ export const Electronics = {
       Description:[
           "Usha Aurora, 1000 Watts, Dry Iron, Five Frabic Settings, Multi Colored LED Tail Light, Weilburger Non-Stick Soleplate, Shockproof Body, Black"
       ],
+      productId:60588
     },
 
     
     {
-      productId:60589,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rv1tu0f1st/bajaj-majesty-dx-6-dry-iron-1000w-anti-bacterial-soleplate-coating-white-product-images-orv1tu0f1st-p599681313-0-202303220349.jpg?im=Resize=(420,420)"],
@@ -3520,10 +3514,10 @@ export const Electronics = {
       Description:[
           "Elevate your ironing experience with the Bajaj Majesty DX-6 Dry Iron. With a powerful 1000W heating element, anti-bacterial soleplate coating, and a sleek White design, this dry iron delivers efficient and hygienic ironing for your garments."
       ],
+      productId:60589
     },
 
     {
-      productId:60590,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/493620634/havells-travel-buddy-iron-800w-white-blue-digital-o493620634-p602434138-0-202306141641.jpeg?im=Resize=(420,420)"],
@@ -3557,12 +3551,12 @@ export const Electronics = {
       Description:[
           "Introducing the Havells Travel Buddy Iron, your compact companion for on-the-go ironing. With a powerful 800W heating element and a stylish combination of White and Blue, this travel-friendly iron ensures convenience and efficiency wherever you are."
       ],
+      productId:60590
 
     },
 
 
     {
-      productId:60591,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/491296020/reconnect-steam-iron-2000w-rhsib2001-digital-o491296020-p590040236-0-202009260739.jpeg?im=Resize=(420,420)"],
@@ -3598,12 +3592,12 @@ export const Electronics = {
       Description:[
           "The Havells Travel Buddy Iron – a perfect companion for your journeys. This compact and efficient iron is equipped with an 800W heating element to ensure your clothes stay crease-free even when you are on the move. With a sleek design in White and Blue, it adds a touch of style to your travel essentials."
       ],
+      productId:60591
     },
   ],
 
   Fans: [
     {
-      productId:60592,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvbvaf6ns1/maxotech-polo-ultra-high-speed-100-copper-winding-1200-mm-anti-dust-3-blade-ceiling-fan-ivory-pack-of-1-product-images-orvbvaf6ns1-p592570698-0-202207140725.jpg?im=Resize=(420,420)"
@@ -3638,9 +3632,9 @@ export const Electronics = {
       Description:[
           "Experience superior air circulation and style with the Maxotech Polo Ultra High-Speed Ceiling Fan. Featuring a 1200 mm size, 100% Copper Winding for durability, Anti Dust technology for easy maintenance, and a classic Ivory color, this 3-blade ceiling fan is a perfect addition to your living spaces."
       ],
+      productId:60592
     },
     {
-      productId:60593,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvbvaf6ns1/maxotech-polo-ultra-high-speed-100-copper-winding-1200-mm-anti-dust-3-blade-ceiling-fan-ivory-pack-of-1-product-images-orvbvaf6ns1-p592570698-0-202207140725.jpg?im=Resize=(420,420)",
@@ -3678,9 +3672,9 @@ export const Electronics = {
       Description:[
           "Beat the heat with the Zigma Bullet Pedestal Fan, a powerful and stylish cooling solution for your home. With a 400 mm size, 3-blade design, and sleek Black finish, this pedestal fan combines performance and aesthetics to keep you cool and comfortable."
       ],
+      productId:60593
     },
     {
-      productId:60594,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvd9eeq3u1/prolife-optima-600-mm-ultra-high-speed-4-blade-ceiling-fan-silver-blue-pack-of-1-product-images-orvd9eeq3u1-p603335426-0-202307280602.jpg?im=Resize=(420,420)"
@@ -3715,9 +3709,9 @@ export const Electronics = {
       Description:[
           "Experience unparalleled air circulation and cooling comfort with the PROLIFE Optima Ceiling Fan. Boasting a 600 mm size, ultra-high-speed performance, and a 4-blade design, this ceiling fan combines power and style to enhance the airflow in your living spaces."
       ],
+      productId:60594
     },
     {
-      productId:60595,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvenb3jjxp/activa-gracia-1200-mm-28-watts-bldc-motor-fan-with-led-light-remote-3-blade-energy-saving-ceiling-fan-with-4-year-warranty-silver-blue-product-images-orvenb3jjxp-p603337298-0-202307280639.jpg?im=Resize=(420,420)"
@@ -3753,9 +3747,9 @@ export const Electronics = {
       Description:[
           "Elevate your home comfort with the ACTIVA Gracia Ceiling Fan, a perfect blend of technology, style, and energy efficiency. Featuring a 1200 mm size, energy-saving BLDC motor, LED light, remote control, and a sleek Silver Blue design, this 3-blade ceiling fan is designed to enhance your living spaces."
       ],
+      productId:60595
     },
     {
-      productId:60596,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvpylbkogo/prolife-jewel-star-600-mm-ultra-high-speed-4-blade-ceiling-fan-ivory-pack-of-1-product-images-orvpylbkogo-p603187388-0-202307251250.jpg?im=Resize=(420,420)",
@@ -3791,10 +3785,10 @@ export const Electronics = {
       Description:[
           "The PROLIFE Jewel Star Ceiling Fan, a perfect combination of elegance and performance. With a 600 mm size, ultra-high-speed capabilities, and a 4-blade design, this ceiling fan is designed to provide optimal air circulation while enhancing the aesthetic appeal of your living spaces."
       ],
+      productId:60596
     },
 
     {
-      productId:60597,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvpylbkogo/prolife-jewel-star-600-mm-ultra-high-speed-4-blade-ceiling-fan-ivory-pack-of-1-product-images-orvpylbkogo-p603187388-0-202307251250.jpg?im=Resize=(420,420)",
@@ -3832,10 +3826,10 @@ export const Electronics = {
       Description:[
           "Enhance your room's ambiance with the Candes Nexo Ceiling Fan, a perfect blend of style and performance. Featuring a 600 mm size, ultra-high-speed capabilities, and a 4-blade design, this ceiling fan not only provides efficient cooling but also adds a touch of elegance to your living spaces."
       ],
+      productId:60597
     },
 
     {
-      productId:60598,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rviyqepzrv/hm-axial-150-mm-3-blade-exhaust-ventilation-fan-black-product-images-orviyqepzrv-p591217170-0-202203311433.jpg?im=Resize=(420,420"],
@@ -3871,11 +3865,11 @@ export const Electronics = {
       Description:[
           "Keep your living spaces fresh and well-ventilated with the HM Axial Exhaust & Ventilation Fan. Featuring a 150 mm size, 3-blade design, and a sleek Black finish, this fan not only ensures efficient air extraction but also adds a modern touch to your home."
       ],
+      productId:60598
     },
 
     
     {
-      productId:60599,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvyfw6psvv/longway-speedy-p1-400-mm-16-inch-ultra-high-speed-3-blade-anti-dust-decorative-star-rated-pedestal-fan-black-pack-of-1-product-images-orvyfw6psvv-p603802323-0-202308111945.jpg?im=Resize=(420,420)"],
@@ -3911,10 +3905,10 @@ export const Electronics = {
       Description:[
           "Longway Speedy P1 400 mm/16 inch Ultra High Speed 3 Blade Anti-Dust Decorative Star Rated Pedestal Fan"
       ],
+      productId:60599
     },
 
     {
-      productId:605100,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvjtg08zts/keekos-white-plastic-powerful-rechargeable-table-fan-with-21-smd-led-light-mini-fan-table-fan-rechargeable-fan-product-images-orvjtg08zts-p601047374-0-202305082018.jpg?im=Resize=(420,420)",
@@ -3949,10 +3943,10 @@ export const Electronics = {
       Description:[
           "Stay cool and well-lit with the KEEKOS Rechargeable Table Fan. This powerful and portable fan not only keeps you refreshed but also brightens up your space with 21 SMD LED lights. With a sleek White design, it's a versatile and convenient solution for any room or outdoor setting."
       ],
+      productId:605100
     },
 
     {
-      productId:605101,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvcy1csj8f/zigma-300-mm-4-blade-ultra-high-speed-with-anti-dust-wall-fan-black-orange-product-images-orvcy1csj8f-p593218375-0-202207282356.jpg?im=Resize=(420,420)"],
@@ -3989,6 +3983,7 @@ export const Electronics = {
       Description:[
           "Beat the heat and keep your space dust-free with the Zigma Ultra High-Speed Wall Fan. Featuring a 300 mm size, 4-blade design, and a striking combination of Black and Orange, this wall fan delivers efficient cooling and adds a vibrant touch to your room decor."
       ],
+      productId:605101
     },
 
   ],
@@ -3996,7 +3991,6 @@ export const Electronics = {
   Laptop: [
         
       {
-      productId:605102,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/493839201/acer-aspire-3-12th-gen-intel-core-i3-laptop-windows-11-home-8-gb-256-gb-ssd-intel-uhd-graphics-microsoft-office-al15-51-39-6-cm-15-6-inch-full-hd-tft-lcd-display-pure-silver-digital-o493839201-p604861541-0-202309271223.jpeg?im=Resize=(420,420)"
@@ -4035,10 +4029,10 @@ export const Electronics = {
       Description:[
           "Elevate your computing experience with the Acer Aspire 3 Laptop, powered by 12th Gen Intel Core i3 processor and featuring a vibrant 15.6-inch Full HD display. With Windows 11 Home, 8 GB RAM, and a speedy 256 GB SSD, this laptop is designed for seamless multitasking and efficient performance. The Pure Silver finish adds a touch of sophistication to its sleek and slim design."
       ],
+      productId:605102
     },
 
       {
-  productId:605103,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/493838144/apple-mqkp3hn-a-macbook-air-apple-m2-chip-8-gb-256-gb-ssd-mac-os-retina-38-91cm-15-3-inch-space-grey-digital-o493838144-p602278065-0-202306291749.jpeg?im=Resize=(420,420)"
@@ -4076,11 +4070,11 @@ export const Electronics = {
 
   Description:[
       "Experience the next level of computing with the Apple MQKP3HN/A MacBook Air, featuring the groundbreaking Apple M2 chip and a stunning 15.3-inch Retina display. With a sleek Space Grey finish, 8 GB RAM, and a lightning-fast 256 GB SSD, this MacBook Air is designed to deliver unparalleled performance and visual excellence for your daily tasks."
-  ]
+  ],
+  productId:605103
 },
 
 {
-  productId:605104,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/493177316/dell-inspiron-3511-laptop-11th-gen-intel-core-i5-1135g7-8-gb-512-gb-ssd-intel-uma-graphics-windows-11-mso-fhd-39-62-cm-15-6-inch-digital-o493177316-p603699116-0-202308071911.jpeg?im=Resize=(420,420)",
@@ -4120,10 +4114,10 @@ export const Electronics = {
   Description:[
       "Unleash the power of productivity with the Dell Inspiron 3511 Laptop, featuring an 11th Gen Intel Core i5 processor, a generous 8 GB of RAM, and a speedy 512 GB SSD. With Windows 11 and a vibrant Full HD display, this laptop is designed to elevate your computing experience for work, entertainment, and more."
   ],
+  productId:605104
 },
 
 {
-  productId:605105,
   productImage:
     ["https://www.jiomart.com/images/product/original/492850809/hp-15s-fq2674tu-laptop-11th-gen-intel-core-i3-1115g4-8gb-512gb-ssd-uhd-graphics-windows-11-home-mso-fhd-39-6-cm-15-6-inch-natural-silver-digital-o492850809-p593222762-0-202207291217.jpeg?im=Resize=(420,420)"],
   brand: "Hp",
@@ -4159,10 +4153,10 @@ export const Electronics = {
   Description:[
      "Elevate your computing experience with the HP 15s-fq2674TU Laptop, powered by an 11th Gen Intel Core i3 processor and featuring a generous 8GB of RAM, a fast 512GB SSD, and a vibrant 15.6-inch Full HD display. With Windows 11 and a sleek Natural Silver design, this laptop is designed for productivity and entertainment on the go." 
   ],
+  productId:605105
 },
 
 {
-  productId:605106,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/493838604/refurbished-hp-elitebook-820-g4-laptop-7th-gen-intel-core-i5-7300u-8gb-512-gb-ssd-integrated-intel-hd-graphics-windows-10-pro-hd-31-75-cm-12-5-inch-digital-o493838604-p604745604-0-202309221825.jpeg?im=Resize=(420,420)"
@@ -4200,10 +4194,10 @@ export const Electronics = {
   Description:[
       "Discover the power of reliability with the Refurbished HP EliteBook 820 G4 Laptop. Featuring a robust 7th Gen Intel Core i5-7300U processor, 8GB of RAM, and a speedy 512GB SSD, this compact 12.5-inch laptop is perfect for professionals on the move. With Windows 10 Pro, enjoy seamless productivity and a host of features for enhanced business performance."
   ],
+  productId:605106
 },
 
 {
-  productId:605107,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/492850808/hp-15s-fq2672tu-laptop-11th-gen-intel-core-i3-1115g4-8gb-ram-512gb-ssd-uhd-graphics-windows-11-home-mso-fhd-39-6-cm-15-6-inch-natural-silver-digital-o492850808-p593222756-0-202207291217.jpeg?im=Resize=(420,420)",
@@ -4242,11 +4236,10 @@ export const Electronics = {
   Description:[
       "Unleash your productivity with the HP 15s-fq2672TU Laptop, featuring an 11th Gen Intel Core i3 processor, a generous 8GB of RAM, a fast 512GB SSD, and a vibrant 15.6-inch Full HD display. With Windows 11 and a sleek Natural Silver design, this laptop is designed to meet your computing needs for work, entertainment, and more."
   ],
-
+  productId:605107
 },
 
 {
-  productId:605108,
   productImage:
     [
 
@@ -4285,10 +4278,10 @@ export const Electronics = {
   Description:[
       "Experience powerful computing with the Dell Inspiron 3520 Laptop, featuring a 12th Gen Intel Core i3 processor, 8GB of RAM, and a speedy 512GB SSD. The integrated graphics and a 15.6-inch display provide a vibrant visual experience. With Windows 11, this laptop is ready to handle your daily tasks with ease."
   ],
+  productId:605108
 },
 
 {
-  productId:605109,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/493838188/asus-ek013w-e-book-laptop-intel-celeron-n4500-8gb-256-gb-ssd-windows-11-home-fhd-35-56-cm-14-0-inch-digital-o493838188-p603999971-0-202308211107.jpeg?im=Resize=(420,420)"],
@@ -4325,10 +4318,10 @@ export const Electronics = {
   Description:[
       "Immerse yourself in the world of portable productivity with the Asus EK410KA E-Book Laptop. Featuring an Intel Celeron N4500 processor, 8GB of RAM, and a fast 256GB SSD, this compact 14.0-inch laptop is designed for on-the-go efficiency. With Windows 11, enjoy a modern and intuitive computing experience for work, study, and entertainment."
   ],
+  productId:605109
 },
 
 {
-  productId:605110,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/492850582/asus-hn124w-tuf-a15-gaming-laptop-amd-ryzen-9-5900hx-16-gb-512-gb-ssd-6gb-nvidia-geforce-rtx-3060-graphics-windows-11-mso-full-hd-39-62-cm-15-6-inch-digital-o492850582-p592148143-0-202206220238.jpeg?im=Resize=(420,420)",
@@ -4366,11 +4359,11 @@ export const Electronics = {
   Description:[
       " Unleash the power of gaming with the Asus LP082W TUF A15 Gaming Laptop. Featuring an AMD Ryzen 7 7735HS processor, 16GB of RAM, and an impressive NVIDIA GeForce RTX 4050 graphics card, this laptop delivers exceptional gaming performance. The 15.6-inch Full HD display, coupled with Windows 11, creates an immersive gaming experience for enthusiasts and professionals alike."
   ],
+  productId:605110
 },
 
 
 {
-  productId:605111,
   productImage:
     [
       "https://www.jiomart.com/images/product/original/493664577/hp-envy-16-h0028tx-standard-laptop-12th-gen-intel-core-i7-12700h-16-gb-512-gb-ssd-intel-iris-xe-graphics-windows-11-home-mso-ultra-hd-40-6-cm-16-inch-digital-o493664577-p602470194-0-202306151927.jpeg?im=Resize=(420,420)"],
@@ -4408,12 +4401,12 @@ export const Electronics = {
   Description:[
       "Experience unparalleled performance and visual excellence with the HP Envy 16-h0028TX Standard Laptop. Featuring a 12th Gen Intel Core i7-12700H processor, 16GB of RAM, and a fast 512GB SSD, this laptop is designed for demanding tasks. The Ultra HD+ display and Intel Iris Xe Graphics deliver a stunning visual experience, making it ideal for professionals and multimedia enthusiasts."
   ],
+  productId:605111
 },
   ],
+
   Desktop: [
     {
- 
-      productId:605112,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvwf2oasla/zoonis-intel-core-i5-650-8-gb-ram-2-gb-integrated-graphics-graphics-500-gb-hard-disk-120-gb-ssd-capacity-windows-10-64-bit-2-gb-integrated-graphics-gb-graphics-memory-mid-tower-with-ms-office-zoo-h55-i5-650-8gb-1tb-120gb-twr-product-images-orvwf2oasla-p592554611-0-202207131819.jpg?im=Resize=(420,420)"
@@ -4448,11 +4441,11 @@ export const Electronics = {
       Description:[
           "The power of cutting-edge technology with the Envy 16-h0028TX Standard Laptop. Equipped with a robust 12th Gen Intel Core i7-12700H processor, 16GB of RAM, and a lightning-fast 512GB SSD, this laptop is designed to handle your most demanding tasks with ease. The stunning 16-inch Ultra HD+ display, coupled with Intel Iris Xe Graphics, delivers a visual feast for professionals, content creators, and multimedia enthusiasts."
       ],
+      productId:605112
       
     },
 
     {
-      productId:605113,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvw4kb9h9l/tech-assemblers-dual-core-4-gb-500-gb-windows-10-assembled-desktop-computer-black-product-images-orvw4kb9h9l-p596561633-0-202212221501.jpg?im=Resize=(420,420)"
@@ -4487,10 +4480,10 @@ export const Electronics = {
       Description:[
             "Experience reliable computing performance with the Tech-Assemblers Dual Core Assembled Desktop Computer. This desktop is equipped with a powerful Dual Core processor, 4GB of RAM, a spacious 500GB HDD, and runs on the robust Windows 10 operating system. Whether you are working, studying, or enjoying multimedia, this assembled desktop delivers a smooth and efficient computing experience."          
       ],
+      productId:605113
     },
 
     {
-      productId:605114,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvy3ipeibl/chist-desktop-pc-core-i7-processor-8gb-ram-256gb-ssd-storage-wi-fi-windows-10-ready-to-use-product-images-orvy3ipeibl-p594557686-0-202210171510.jpg?im=Resize=(420,420)"
@@ -4528,10 +4521,10 @@ export const Electronics = {
       Description:[
           "Elevate your computing experience with the CHIST Desktop PC, featuring a powerful Core i7 processor, 8GB of RAM, and a fast 256GB SSD storage. This desktop PC comes ready to use with built-in Wi-Fi connectivity and runs on the reliable Windows 10 operating system. Whether you're tackling demanding tasks or enjoying multimedia, the CHIST Desktop PC delivers performance and convenience in a sleek package."
       ],
+      productId:605114
     },
 
     {
-      productId:605115,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvgzy6gipu/hasons-processor-intel-core-i5-gen-4th-chipset-series-h81-windows-10-1tb-hdd-4-gb-product-images-orvgzy6gipu-p604892468-0-202309272113.jpg?im=Resize=(420,420)"
@@ -4569,10 +4562,10 @@ export const Electronics = {
       Description:[
           "The  performance and efficiency with the Hasons Desktop PC, featuring an Intel Core i5 4th Gen processor, Chipset Series H81, and a well-rounded configuration. With 4GB of RAM, a spacious 1TB HDD, and Windows 10 pre-installed, this desktop is ready to handle your computing needs for work, study, and entertainment."
       ],
+      productId:605115
     },
 
     {
-      productId:605116,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvipqgvq2c/electrobot-intel-i5-650-4-gb-ram-on-board-graphics-500-gb-hard-disk-free-dos-full-tower-tower-pc-assembled-computer-with-wifi-product-images-orvipqgvq2c-p593197163-0-202207281559.jpg?im=Resize=(420,420)"
@@ -4610,10 +4603,10 @@ export const Electronics = {
       Description:[
           " Electrobot Intel i5-650 (4 GB RAM/On Board Graphics/500 GB Hard Disk/Free DOS) Full Tower (Tower PC Assembled Computer With Wifi)"
       ],
+      productId:605116
     },
     
     {
-      productId:605117,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvipqgvq2c/electrobot-intel-i5-650-4-gb-ram-on-board-graphics-500-gb-hard-disk-free-dos-full-tower-tower-pc-assembled-computer-with-wifi-product-images-orvipqgvq2c-p593197163-0-202207281559.jpg?im=Resize=(420,420)"
@@ -4651,11 +4644,11 @@ export const Electronics = {
       Description:[
           "powerful computing with the Electrobot Intel i5-650 Full Tower PC. This assembled computer is equipped with an Intel i5-650 processor, 4GB of RAM, and a 500GB Hard Disk, providing a balanced configuration for a variety of computing needs. With built-in Wifi and Free DOS, this Full Tower PC offers flexibility and connectivity for your tasks and projects."
       ],
+      productId:605117
       
     },
 
     {
-      productId:605118,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvwf2oasla/zoonis-intel-core-i5-650-8-gb-ram-2-gb-integrated-graphics-graphics-500-gb-hard-disk-120-gb-ssd-capacity-windows-10-64-bit-2-gb-integrated-graphics-gb-graphics-memory-mid-tower-with-ms-office-zoo-h55-i5-650-8gb-1tb-120gb-twr-product-images-orvwf2oasla-p592554611-0-202207131819.jpg?im=Resize=(420,420)"
@@ -4690,11 +4683,11 @@ export const Electronics = {
       Description:[
           "ZOONIS Intel Core i5-650 (8 GB RAM/2 GB Integrated Graphics Graphics/500 GB Hard Disk/120 GB SSD Capacity/Windows 10 (64-bit)/2 GB Integrated Graphics GB Graphics Memory) Mid Tower with MS Office (ZOO/H55-I5 650-8GB-1TB-120GB TWR))"
       ],
+      productId:605118
     },
 
     
     {
-      productId:605119,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvwf2oasla/zoonis-intel-core-i5-650-8-gb-ram-2-gb-integrated-graphics-graphics-500-gb-hard-disk-120-gb-ssd-capacity-windows-10-64-bit-2-gb-integrated-graphics-gb-graphics-memory-mid-tower-with-ms-office-zoo-h55-i5-650-8gb-1tb-120gb-twr-product-images-orvwf2oasla-p592554611-0-202207131819.jpg?im=Resize=(420,420)"
@@ -4729,10 +4722,10 @@ export const Electronics = {
       Description:[
           "Unlock the world of computing with the Tech-Assemblers Dual Core Assembled Desktop Computer. This desktop powerhouse features a robust Dual Core processor, 4GB of RAM, and a capacious 500GB HDD, providing a balanced configuration for your daily computing needs. Pre-loaded with Windows 10, this assembled desktop offers a seamless and user-friendly experience, all housed in a sleek and elegant black design."
       ],
+      productId:605119
     },
 
     {
-      productId:605120,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvwf2oasla/zoonis-intel-core-i5-650-8-gb-ram-2-gb-integrated-graphics-graphics-500-gb-hard-disk-120-gb-ssd-capacity-windows-10-64-bit-2-gb-integrated-graphics-gb-graphics-memory-mid-tower-with-ms-office-zoo-h55-i5-650-8gb-1tb-120gb-twr-product-images-orvwf2oasla-p592554611-0-202207131819.jpg?im=Resize=(420,420)"
@@ -4772,10 +4765,10 @@ export const Electronics = {
       Description:[
           "The world of computing with the Tech-Assemblers Dual Core Assembled Desktop Computer. This desktop powerhouse features a robust Dual Core processor, 4GB of RAM, and a capacious 500GB HDD, providing a balanced configuration for your daily computing needs. Pre-loaded with Windows 10, this assembled desktop offers a seamless and user-friendly experience, all housed in a sleek and elegant black design."
       ],
+      productId:605120
     },
 
     {
-      productId:605121,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvwf2oasla/zoonis-intel-core-i5-650-8-gb-ram-2-gb-integrated-graphics-graphics-500-gb-hard-disk-120-gb-ssd-capacity-windows-10-64-bit-2-gb-integrated-graphics-gb-graphics-memory-mid-tower-with-ms-office-zoo-h55-i5-650-8gb-1tb-120gb-twr-product-images-orvwf2oasla-p592554611-0-202207131819.jpg?im=Resize=(420,420)"
@@ -4809,10 +4802,10 @@ export const Electronics = {
       Description:[
           "Zoonis Intel i5-650 (4 GB RAM/500 GB Hard Disk/Free DOS) Full Tower"
       ],
+      productId:605121
     },
 
     {
-      productId:605122,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvx0ngtaxo/chist-desktop-computer-core-i5-650-8-gb-ram-500-gb-hdd-120-gb-ssd-wifi-ready-to-use-product-images-orvx0ngtaxo-p593207636-0-202212171556.jpg?im=Resize=(420,420)"
@@ -4846,12 +4839,12 @@ export const Electronics = {
       Description:[
           " CHIST Desktop Computer (Core i5 650, 8 GB RAM, 500 GB HDD, 120 GB SSD, WiFi) ready to use...."
       ],
+      productId:605122
     },
 
     ],
   Monitor: [
     {
-      productId:605123,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvmddg2d1v/zebion-24-inch-hd-monitor-24hd-product-images-orvmddg2d1v-p593998283-0-202209232016.jpg?im=Resize=(420,420)"
@@ -4886,10 +4879,10 @@ export const Electronics = {
       Description:[
           "Zebion 24-HD 60.96 cm (23.8inch) | FULL HD | Backlit LED| 250 Nits| 5 MS Response Time| 1 VGA| 1 HDMI| Black Monitor"
       ],
+      productId:605123
     },
 
     {
-      productId:605124,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/492849914/zebronics-54-6-cm-21-5-inch-led-monitor-mt61-zeb-a22fhd-digital-o492849914-p591220489-0-202204191431.jpeg?im=Resize=(420,420)",
@@ -4931,9 +4924,9 @@ export const Electronics = {
       Description:[
           "ZEBRONICS MT61-ZEB A22FHD 54.6 cm (21.5 inch), 1920 x 1080 Resolution, Black Monitor"
       ],
+      productId:605124
     },
     {
-      productId:605125,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvyzqkq24c/lg-20m39a-49-53-cm-19-5-inch-hd-resolution-tn-panel-vga-port-wall-mount-3-year-warranty-black-monitor-product-images-orvyzqkq24c-p596721403-0-202212310145.jpg?im=Resize=(420,420)"
@@ -4973,9 +4966,9 @@ export const Electronics = {
       Description:[
           "LG 20M39A 49.53 cm (19.5 Inch) HD Resolution TN Panel Vga Port Wall Mount 3 Year Warranty Black Monitor"
       ],
+      productId:605125
     },
     {
-      productId:605126,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvlo57wnvc/lg-27ml600-full-hd-27-inch-69-cm-lcd-ips-panel-borderless-design-dual-hdmi-vga-port-flicker-free-screen-white-3-year-warranty-computer-monitor-product-images-orvlo57wnvc-p603569094-0-202308031727.jpg?im=Resize=(420,420)",
@@ -5012,9 +5005,9 @@ export const Electronics = {
       Description:[
           "LG 27ML600 Full Hd 27 Inch (69 cm) LCD IPS Panel | Borderless Design | Dual Hdmi & Vga Port |Flicker Free Screen |White| 3 Year Warranty| Computer Monitor"
       ],
+      productId:605126
     },
     {
-      productId:605127,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvm1x6taty/enter-e-m0-a09-led-monitor-50-8-cm-20-inch-black-product-images-orvm1x6taty-p603873588-0-202308141404.jpg?im=Resize=(420,420)",
@@ -5052,10 +5045,10 @@ export const Electronics = {
       Description:[
           "Acer EK220Q 54.6 cm (21.5 inch) with VA Panel Technology 1920 X 1080 Resolution Refresh Rate 75Hz Black Monitor"
       ],
+      productId:605127
     },
 
     {
-      productId:605128,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/rvw8vbjyvb/benq-gw2780-27-inch-68-cm-1920-x-1080-pixels-ips-full-hd-ultra-slim-bezel-monitor-eye-care-product-images-orvw8vbjyvb-p601558511-0-202305162041.jpg?im=Resize=(420,420)"],
@@ -5091,10 +5084,10 @@ export const Electronics = {
       Description:[
           " BenQ GW2780 27 inch (68 cm) 1920 x 1080 Pixels IPS Full HD Ultra-Slim Bezel Monitor- Eye Care"
       ],
+      productId:605128
     },
 
     {
-      productId:605129,
       productImage:
         [
           "https://www.jiomart.com/images/product/original/492850945/benq-gw2280-54-61-cm-21-5-inch-va-full-hd-built-in-speakers-hdmi-flicker-free-technology-black-monitor-digital-o492850945-p593276476-0-202207311113.jpeg?im=Resize=(420,420)",
@@ -5133,10 +5126,10 @@ export const Electronics = {
       Description:[
           "BenQ GW2280 54.61 cm (21.5 inch) VA, Full HD, Built-in Speakers, HDMI, Flicker-free Technology (Black), Monitor"
       ],
+      productId:605129
     },
 
     {
-      productId:605130,
       productImage:
         [
         "https://www.jiomart.com/images/product/original/rv0usxisoa/daitora-109-cm-43-inches-advanced-i-series-full-hd-smart-led-google-tv-a43-g-black-product-images-orv0usxisoa-p606288597-0-202311241107.jpg?im=Resize=(420,420)"],
@@ -5171,10 +5164,10 @@ export const Electronics = {
       Description:[
           "DAITORA 109 Cm (43 Inches) Advanced I Series Full HD Smart LED Google TV A43 G (Black)"
       ],
+      productId:605130
     },
 
     {
-      productId:605131,
       productImage:
         [
         "https://www.jiomart.com/images/product/original/rvtltiwfyf/daitora-140-cm-55-inches-advanced-i-series-ultra-hd-smart-led-google-tv-a55-gk-black-product-images-orvtltiwfyf-p606172090-0-202311181330.jpg?im=Resize=(420,420)",
@@ -5210,6 +5203,7 @@ export const Electronics = {
       Description:[
           " DAITORA 140 Cm (55 Inches) Advanced I Series Ultra HD Smart LED Google TV A55 GK (Black)"
       ],
+      productId:605131
     },
   ],
 };
